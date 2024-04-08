@@ -40,3 +40,15 @@ cdnjs.cloudflare.com
 medium.com
 discordapp.com
 ghost.io
+www.visa.com.hk:2087#visa-속도빠름
+www.price.com.hk#price미국
+www.gov.se:2096#gov.se미국
+www.udacity.com#udacity일본
+proxyip.hk.fxxk.dedyn.io#dedyn홍콩
+cloudflare.cfgo.cc#미국서버
+cfydmm.981545.xyz#cfydmm미국
+cfbxsdyg.981545.xyz#cfbxsdyg미국
+cfdgflkf.981545.xyz#cfdgflkf미국
+ca-cdncdn.syjd.xyz#캐나다미국
+jp-cdn.981545.xyz#홍콩미국
+ca-cdncdn.syjd.xyz#캐나다미국
