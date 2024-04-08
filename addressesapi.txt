@@ -53,4 +53,4 @@ ca-cdncdn.syjd.xyz#캐나다미국
 jp-cdn.981545.xyz#홍콩미국
 ca-cdncdn.syjd.xyz#캐나다미국
 
-www.visa.com.sg:2086#visa sg-속도빠름
+www.visa.com.sg:2087#visa sg-속도빠름
