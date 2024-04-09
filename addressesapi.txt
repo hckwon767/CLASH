@@ -1,6 +1,3 @@
-cdn.chinaliftoff-creatives.io:443
-impression-east.chinaliftoff.io:443
-w.isx.unity3d.com:443
 judge2020.com
 firing.it
 www.shoutmeloud.com
