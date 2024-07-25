@@ -1,3 +1,4 @@
+freeyx.cloudflare88.eu.org:2053#free edge
 acjp2.cloudflarest.link:2053#임시
 bestproxy.onecf.eu.org:2053#임시
 acsg.cloudflarest.link:2053#임시
