@@ -1,3 +1,6 @@
+158.179.174.143#한국
+149.129.8.215#한국
+43.131.253.21#한국
 freeyx.cloudflare88.eu.org#free edge
 acjp2.cloudflarest.link:2053#임시
 bestproxy.onecf.eu.org:2053#임시
