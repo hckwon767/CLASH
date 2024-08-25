@@ -13,63 +13,16 @@
 158.179.174.143#KR 한국
 149.129.8.215#KR 한국
 43.131.253.21#KR 한국
-freeyx.cloudflare88.eu.org#free edge
-acjp2.cloudflarest.link:2053#임시
-bestproxy.onecf.eu.org:2053#임시
-acsg.cloudflarest.link:2053#임시
-acsg3.cloudflarest.link:2053#임시
-acjp.cloudflarest.link:2053#임시
 cdn.shanggan.pp.ua:2053#HK Alibaba 홍콩
-best.cdn.sqeven.cn:2053#임시
 proxy.xxxxxxxx.tk:2053#SG Alibaba 싱가폴
 jp.anxray.top:2053#US AMAZON 미국-일본
-jpcdn.raises.top:2053#임시
 achk2.cloudflarest.link:2053#US AMAZON 미국-홍콩
 yx.blessbai.tech:2053#HK Alibaba 홍콩
-tg.eliv2ray.io#vpn
-allsms.rozfa.com#vpn
-zula.ir#vpn
-cpanel.com#vpn
-l.yuewfgfg.site#vpn
-194.31.55.6#리투아니아
-185.146.173.38#HK 홍콩1
-185.146.173.83#HK 홍콩2
-185.146.173.37#HK 홍콩3
-185.146.173.58#HK 홍콩4
-185.146.173.95#HK 홍콩5
-185.146.173.94#HK 홍콩6
-185.146.173.18#HK 홍콩7
-188.114.97.141#vpn1
-104.21.3.182#vpn2
-104.17.148.22#vpn3
-104.17.83.58#vpn4
-172.66.45.32#vpn5
-172.66.47.126#vpn6
-172.66.45.32#vpn7
-172.66.47.44#vpn8
-104.18.5.2#vpn9
-172.66.45.32#vpn10
-104.18.202.232#vpn11
-172.66.46.251#vpn12
-freeyx.cloudflare88.eu.org#✈vpn
-162.159.152.2#vpn13
-162.159.153.2#vpn14
-104.18.188.76#vpn15
-104.16.57.96#vpn16
-104.17.100.175#vpn17
-104.17.187.8#vpn18
-sub.690217.us.kg#CF
-77927.690217.us.kg#CF
-db.690217.us.kg#CF
-Cloudflare.241234.xyz#CF
-138.2.104.102#SG
-146.70.175.185#UK
-45.32.25.171#JP
-47.74.4.97#JP
-hk.xojbk.filegear-sg.me#HK 홍콩
-visa.com.hk:2053#HK 홍콩VISA
-visa.com.tw:2053#TW 대만VISA
-www.iakeys.com#CF
-xojbk.filegear-sg.me#CF
-cf.j8.com.mp#CF
-join-v2rey.pages.dev#CF
+104.19.96.215
+104.19.96.38
+104.19.96.12
+104.19.96.117
+104.19.53.224
+104.19.53.183
+104.19.53.154
+104.19.53.43
