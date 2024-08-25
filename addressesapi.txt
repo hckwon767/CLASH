@@ -18,11 +18,3 @@ proxy.xxxxxxxx.tk:2053#SG Alibaba 싱가폴
 jp.anxray.top:2053#US AMAZON 미국-일본
 achk2.cloudflarest.link:2053#US AMAZON 미국-홍콩
 yx.blessbai.tech:2053#HK Alibaba 홍콩
-104.19.96.215
-104.19.96.38
-104.19.96.12
-104.19.96.117
-104.19.53.224
-104.19.53.183
-104.19.53.154
-104.19.53.43
