@@ -1,10 +1,17 @@
+cdn.2020111.xyz#최고속도였으면
+115155.xyz#여기저기1
+hk.cloudflare.182682.xyz#hk 여기저기
+kr.cloudflare.182682.xyz#kr 여기저기
+sg.cloudflare.182682.xyz#sg 여기저기
+freeyx.cloudflare88.eu.org#여기저기3
+cf.345673.xyz#여기저기4
+cf.0sm.com#여기저기5
 proxyip.hk.fxxk.dedyn.io#HK 홍콩
 proxyip.sg.fxxk.dedyn.io#SG 싱가폴
 proxyip.jp.fxxk.dedyn.io#JP 일본
 proxyip.aliyun.fxxk.dedyn.io#알리클라우드
 proxyip.oracle.fxxk.dedyn.io#오라클
 proxyip.digitalocean.fxxk.dedyn.io#디지털오션
-yx.887141.xyz#cf 1000ip/3min
 47.57.245.232#HK 1홍콩8
 8.210.13.126:11319#HK 2홍콩9
 47.76.146.1:2053#HK 3홍콩10
