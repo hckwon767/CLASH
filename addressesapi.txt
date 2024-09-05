@@ -9,6 +9,7 @@ cf.0sm.com#여기저기5
 proxyip.hk.fxxk.dedyn.io#HK 홍콩
 proxyip.sg.fxxk.dedyn.io#SG 싱가폴
 proxyip.jp.fxxk.dedyn.io#JP 일본
+proxyip.kr.fxxk.dedyn.io#KR 한국
 proxyip.aliyun.fxxk.dedyn.io#알리클라우드
 proxyip.oracle.fxxk.dedyn.io#오라클
 proxyip.digitalocean.fxxk.dedyn.io#디지털오션
