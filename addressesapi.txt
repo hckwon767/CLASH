@@ -1,11 +1,17 @@
-cdn.2020111.xyz#최고속도였으면
-115155.xyz#여기저기1
-hk.cloudflare.182682.xyz#hk 여기저기
-kr.cloudflare.182682.xyz#kr 여기저기
-sg.cloudflare.182682.xyz#sg 여기저기
-freeyx.cloudflare88.eu.org#여기저기3
-cf.345673.xyz#여기저기4
-cf.0sm.com#여기저기5
+hk.cloudflare.182682.xyz#HK 여기1
+kr.cloudflare.182682.xyz#HK 여기2
+sg.cloudflare.182682.xyz#HK 여기3
+104.19.44.77#HK 고속
+104.17.170.52#HK 저속
+104.18.81.196#HK 저속
+freeyx.cloudflare88.eu.org#US 여기1
+cf.0sm.com#US 여기2
+115155.xyz#US 여기3
+104.19.209.196#US 여기4
+cdn.2020111.xyz#US 여기5
+104.17.0.35#US 고속
+118.130.241.44:34599#KR 한국(중속)
+
 proxyip.hk.fxxk.dedyn.io#HK 홍콩
 proxyip.sg.fxxk.dedyn.io#SG 싱가폴
 proxyip.jp.fxxk.dedyn.io#JP 일본
@@ -18,12 +24,6 @@ proxyip.digitalocean.fxxk.dedyn.io#디지털오션
 47.76.146.1:2053#HK 3홍콩10
 47.236.130.95:2083#SG 싱가폴
 47.236.145.85:2053#SG 싱가폴
-104.17.170.52#1고속
-104.17.0.35#2고속
-104.19.44.77#3고속
-104.18.81.196#4고속
-104.19.209.196#5고속
-118.130.241.44:34599#KR 1한국
 158.179.174.143#KR 2한국
 149.129.8.215#KR 3한국
 43.131.253.21#KR 4한국
