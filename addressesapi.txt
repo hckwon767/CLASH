@@ -12,12 +12,10 @@ cdn.2020111.xyz#HK 홍콩(고속)2
 104.17.0.35#HK 고속
 118.130.241.44:34599#KR 한국(중속)
 
-proxyip.hk.fxxk.dedyn.io#HK 홍콩 FUCK
-proxyip.sg.fxxk.dedyn.io#SG 싱가폴 FUCK
-proxyip.jp.fxxk.dedyn.io#JP 일본 FUCK
-proxyip.kr.fxxk.dedyn.io#KR 한국 FUCK
-proxyip.aliyun.fxxk.dedyn.io#알리클라우드 FUCK
-proxyip.oracle.fxxk.dedyn.io#오라클 FUCK
-proxyip.digitalocean.fxxk.dedyn.io#디지털오션 FUCK
-47.236.130.95:2083#SG 싱가폴1
-47.236.145.85:2053#SG 싱가폴2
+proxyip.hk.fxxk.dedyn.io#HK 홍콩 
+proxyip.sg.fxxk.dedyn.io#SG 싱가폴 
+proxyip.jp.fxxk.dedyn.io#JP 일본 
+proxyip.kr.fxxk.dedyn.io#HK 홍콩
+proxyip.aliyun.fxxk.dedyn.io#알리클라우드 
+proxyip.oracle.fxxk.dedyn.io#오라클 
+proxyip.digitalocean.fxxk.dedyn.io#디지털오션 
