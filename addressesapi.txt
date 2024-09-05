@@ -4,27 +4,20 @@ sg.cloudflare.182682.xyz#HK 여기3
 104.19.44.77#HK 고속
 104.17.170.52#HK 저속
 104.18.81.196#HK 저속
-freeyx.cloudflare88.eu.org#US 여기1
-cf.0sm.com#US 여기2
-115155.xyz#US 여기3
-104.19.209.196#US 여기4
-cdn.2020111.xyz#US 여기5
-104.17.0.35#US 고속
+freeyx.cloudflare88.eu.org#HK 여기1
+cf.0sm.com#HK 여기2
+115155.xyz#HK 여기3
+104.19.209.196#HK 홍콩(고속)1
+cdn.2020111.xyz#HK 홍콩(고속)2
+104.17.0.35#HK 고속
 118.130.241.44:34599#KR 한국(중속)
 
-proxyip.hk.fxxk.dedyn.io#HK 홍콩
-proxyip.sg.fxxk.dedyn.io#SG 싱가폴
-proxyip.jp.fxxk.dedyn.io#JP 일본
-proxyip.kr.fxxk.dedyn.io#KR 한국
-proxyip.aliyun.fxxk.dedyn.io#알리클라우드
-proxyip.oracle.fxxk.dedyn.io#오라클
-proxyip.digitalocean.fxxk.dedyn.io#디지털오션
-47.57.245.232#HK 1홍콩8
-8.210.13.126:11319#HK 2홍콩9
-47.76.146.1:2053#HK 3홍콩10
-47.236.130.95:2083#SG 싱가폴
-47.236.145.85:2053#SG 싱가폴
-158.179.174.143#KR 2한국
-149.129.8.215#KR 3한국
-43.131.253.21#KR 4한국
-59.3.3.161#KR 5한국
+proxyip.hk.fxxk.dedyn.io#HK 홍콩 FUCK
+proxyip.sg.fxxk.dedyn.io#SG 싱가폴 FUCK
+proxyip.jp.fxxk.dedyn.io#JP 일본 FUCK
+proxyip.kr.fxxk.dedyn.io#KR 한국 FUCK
+proxyip.aliyun.fxxk.dedyn.io#알리클라우드 FUCK
+proxyip.oracle.fxxk.dedyn.io#오라클 FUCK
+proxyip.digitalocean.fxxk.dedyn.io#디지털오션 FUCK
+47.236.130.95:2083#SG 싱가폴1
+47.236.145.85:2053#SG 싱가폴2
