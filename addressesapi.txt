@@ -17,6 +17,8 @@ cdn.2020111.xyz#HK 홍콩(고속)2
 175.200.14.162:17443#JP 일본(저속)
 121.181.128.153:19100#JP 일본(중속)
 
+172.66.44.85#US Seattle(초고속)
+
 proxyip.hk.fxxk.dedyn.io#HK 홍콩 
 proxyip.sg.fxxk.dedyn.io#SG 싱가폴 
 proxyip.jp.fxxk.dedyn.io#JP 일본 
