@@ -41,6 +41,6 @@ proxyip.digitalocean.fxxk.dedyn.io#디지털오션
 172.66.0.0#test12
 172.67.0.0#test13
 162.159.0.0#test14
-198.41.192.0test15
-198.41.0.0test15-1
+198.41.192.0#test15
+198.41.0.0#test15-1
 104.28.0.0#KR test16
