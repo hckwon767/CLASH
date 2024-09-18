@@ -40,3 +40,5 @@ proxyip.digitalocean.fxxk.dedyn.io#디지털오션
 172.67.0.0#HK 홍콩(고속)3
 162.159.0.0#US 미국
 198.41.192.0#US 미국
+
+bestproxy.onecf.eu.org#테스트서버
