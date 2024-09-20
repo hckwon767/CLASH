@@ -43,3 +43,8 @@ proxyip.digitalocean.fxxk.dedyn.io#디지털오션
 server18.aibox.tv#US 미국(일반)
 a.ssll.gay#US 미국(고속)
 openproxylist.com#US 미국(일반)
+zula.ir#HK 홍콩(일반)1
+cloudflare.com#HK 홍콩(일반)2
+tg.cmliussss.giize.com#HK 홍콩(일반)3
+images.apple.com#애플서버1
+api.push.apple.com#애플서버2
