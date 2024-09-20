@@ -40,6 +40,7 @@ proxyip.digitalocean.fxxk.dedyn.io#디지털오션
 172.67.0.0#HK 홍콩(고속)3
 162.159.0.0#US 미국
 198.41.192.0#US 미국
+server18.aibox.tv#US 미국(일반)
+a.ssll.gay#US 미국(고속)
 
-server18.aibox.tv#테스트1
-a.ssll.gay#테스트2
+openproxylist.com#테스트1
