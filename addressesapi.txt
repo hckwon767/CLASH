@@ -5,6 +5,7 @@ freeyx.cloudflare88.eu.org#HK 여기4
 cf.0sm.com#HK 여기5
 115155.xyz#HK 여기6
 104.19.44.77#HK 고속
+104.19.44.151:8080#HK 홍콩(고속)3
 104.17.170.52#HK 저속
 104.18.81.196#HK 저속
 104.19.209.196#HK 홍콩(고속)1
@@ -43,7 +44,3 @@ proxyip.digitalocean.fxxk.dedyn.io#디지털오션
 server18.aibox.tv#US 미국(일반)
 a.ssll.gay#US 미국(고속)
 openproxylist.com#US 미국(일반)
-
-132.226.172.147:62001#서울테스트
-104.19.44.151:8080#서울한국테스트
-146.56.191.191:443#서울한국으로
