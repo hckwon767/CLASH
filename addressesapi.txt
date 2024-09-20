@@ -42,5 +42,4 @@ proxyip.digitalocean.fxxk.dedyn.io#디지털오션
 198.41.192.0#US 미국
 server18.aibox.tv#US 미국(일반)
 a.ssll.gay#US 미국(고속)
-
-openproxylist.com#테스트1
+openproxylist.com#US 미국(일반)
