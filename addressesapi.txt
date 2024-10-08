@@ -26,6 +26,6 @@ proxyip.digitalocean.fxxk.dedyn.io#디지털오션
 172.66.0.0#프리
 162.159.0.0#프리
 198.41.192.0#프리
+kr.freegpt.filegear-sg.me#프리
 
-kr.freegpt.filegear-sg.me#KR 바른사나이
 cfip.1323123.xyz#HK 빠른서버테스트
