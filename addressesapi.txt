@@ -27,4 +27,4 @@ proxyip.digitalocean.fxxk.dedyn.io#디지털오션
 162.159.0.0#프리
 198.41.192.0#프리
 
-techsonicfree.dinirudesilva.com#SG 바른사나이
+kr.freegpt.filegear-sg.me#KR 바른사나이
