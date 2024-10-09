@@ -38,3 +38,4 @@ kr1.jianxian.dynv6.net#SouthKorea①
 kr2.jianxian.dynv6.net#SouthKorea②
 45.142.120.219#프리16
 cfip.cfcdn.vip#테스트용
+speed.marisalnc.com#속도짱
