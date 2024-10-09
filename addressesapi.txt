@@ -1,5 +1,6 @@
 cf.0sm.com#HK 여기1
 115155.xyz#HK 여기2
+cfip.cfcdn.vip#HK 홍콩(고속)1
 cdn.2020111.xyz#HK 홍콩(고속)2
 
 118.131.41.202:16072#KR 한국1(중속)
@@ -37,5 +38,4 @@ uk.jianxian.dynv6.net#프리15
 kr1.jianxian.dynv6.net#SouthKorea①
 kr2.jianxian.dynv6.net#SouthKorea②
 45.142.120.219#프리16
-cfip.cfcdn.vip#테스트용
 speed.marisalnc.com#속도짱
