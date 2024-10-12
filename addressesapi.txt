@@ -39,5 +39,5 @@ kr1.jianxian.dynv6.net#SouthKorea①
 kr2.jianxian.dynv6.net#SouthKorea②
 45.142.120.219#프리16
 speed.marisalnc.com#속도짱
-myhome.hckwon.cloudns.org#마이서버1
-test.hckwon.cloudns.org#마이서버2
+myhome.hckwon.cloudns.org#KR 한국 내꺼1
+test.hckwon.cloudns.org#KR 한국 내꺼2
