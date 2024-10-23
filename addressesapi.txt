@@ -1,7 +1,6 @@
 
 64.69.24.19#SG 싱가폴 빠름
 a.fsdn.com#HK 홍콩 빠름
-kr.freegpt.filegear-sg.me#HK 홍콩 빠름
 cf.0sm.com#HK 여기1
 115155.xyz#HK 여기2
 cfip.cfcdn.vip#HK 홍콩(고속)1
@@ -33,6 +32,7 @@ proxyip.digitalocean.fxxk.dedyn.io#디지털오션
 198.41.192.0#프리11
 160.153.0.0#프리12
 45.142.120.219#프리13
+kr.freegpt.filegear-sg.me#프리14
 
 cfip.1323123.xyz#HK 빠른서버테스트
 
