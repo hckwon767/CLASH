@@ -1,7 +1,3 @@
-aagag.com#테스트1
-wise.com#테스트2
-fontmeme.com#테스트3
-jembat.homes#테스트4
 
 64.69.24.19#SG 싱가폴 빠름
 a.fsdn.com#HK 홍콩 빠름
@@ -73,3 +69,8 @@ speed.marisalnc.com#속도짱
 104.19.46.146#HK
 104.19.49.182#HK
 104.19.52.71#HK
+
+aagag.com#US 미국1
+wise.com#US 미국2
+fontmeme.com#US 미국3
+jembat.homes#US 미국4
