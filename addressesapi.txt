@@ -2,9 +2,8 @@ aagag.com#테스트1
 wise.com#테스트2
 fontmeme.com#테스트3
 jembat.homes#테스트4
-64.69.24.19#테스트5
-1.1.1.0#테스트6
 
+64.69.24.19#SG 싱가폴 빠름
 a.fsdn.com#HK 홍콩 빠름
 cf.0sm.com#HK 여기1
 115155.xyz#HK 여기2
