@@ -1,3 +1,16 @@
+www.visa.com#USA
+cis.visa.com#USA
+africa.visa.com#USA
+www.visa.com.sg#USA
+www.visaeurope.at#USA
+www.visa.com.mt#USA
+qa.visamiddleeast.com#USA
+usa.visa.com#USA
+myanmar.visa.com#USA
+www.visa.com.tw#USA
+www.visaeurope.ch#USA
+www.visa.com.br#USA
+www.visasoutheasteurope.com#USA
 
 64.69.24.19#SG 싱가폴 빠름
 a.fsdn.com#HK 홍콩 빠름
