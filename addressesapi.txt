@@ -13,7 +13,7 @@ www.visa.com.br#USA
 www.visasoutheasteurope.com#USA
 
 64.69.24.19#SG 싱가폴 빠름
-103.159.89.26:443#SG 싱가폴 빠름2
+103.159.89.26:443#TW 대만 빠름
 a.fsdn.com#HK 홍콩 빠름
 cf.0sm.com#HK 여기1
 115155.xyz#HK 여기2
