@@ -88,3 +88,4 @@ aagag.com#US 미국1
 wise.com#US 미국2
 fontmeme.com#US 미국3
 jembat.homes#US 미국4
+translations.matetranslate.com#US 미국5
