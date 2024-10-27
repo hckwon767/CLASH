@@ -1,3 +1,7 @@
+202.81.230.230:12345#HKG
+20.2.144.117:12000#HKG
+122.116.105.15:10443#Taiwan
+
 www.visa.com#USA
 cis.visa.com#USA
 africa.visa.com#USA
