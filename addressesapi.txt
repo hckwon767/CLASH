@@ -1,4 +1,25 @@
-108.162.192.216#cftest
+alex.ns.cloudflare.com
+andy.ns.cloudflare.com
+art.ns.cloudflare.com
+ben.ns.cloudflare.com
+bob.ns.cloudflare.com
+brad.ns.cloudflare.com
+carl.ns.cloudflare.com
+cody.ns.cloudflare.com
+dan.ns.cloudflare.com
+dave.ns.cloudflare.com
+david.ns.cloudflare.com
+derek.ns.cloudflare.com
+duke.ns.cloudflare.com
+ed.ns.cloudflare.com
+eric.ns.cloudflare.com
+greg.ns.cloudflare.com
+igor.ns.cloudflare.com
+jay.ns.cloudflare.com
+jeff.ns.cloudflare.com
+ken.ns.cloudflare.com
+norm.ns.cloudflare.com
+zeus.ns.cloudflare.com
 
 119.28.189.227:32079#HK
 103.30.78.25:30277#HK
