@@ -1,12 +1,7 @@
-cloudflare.com
-www.cloudflare.com
-cdnjs.cloudflare.com
-api.cloudflare.com
-dash.cloudflare.com
-platform.dash.cloudflare.com
-info.cloudflare.com
-sparrow.cloudflare.com
-assets.www.cloudflare.com
+cdnjs.cloudflare.com#web1
+api.cloudflare.com#web2
+info.cloudflare.com#web3
+sparrow.cloudflare.com#web4
 
 119.28.189.227:32079#HK
 103.30.78.25:30277#HK
