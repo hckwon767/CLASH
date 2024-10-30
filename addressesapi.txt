@@ -1,3 +1,13 @@
+104.17.193.171#Hong Kong,21 ms
+104.17.196.80#Hong Kong,21 ms
+104.17.67.4#Hong Kong,21 ms
+104.26.0.158#Seattle,161 ms
+104.26.5.38#Seattle,161 ms
+104.26.10.89#Seattle,163 ms
+104.16.99.42#Frankfurt,239 ms
+172.67.14.203#Frankfurt,240 ms
+172.67.142.37#Paris,240 ms
+
 cdnjs.cloudflare.com#web1
 api.cloudflare.com#web2
 info.cloudflare.com#web3
