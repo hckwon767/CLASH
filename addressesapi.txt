@@ -1,10 +1,6 @@
-cdn-b100.xn--b6gac.eu.org
-proxy.xxxxxxxx.tk
-edgetunnel.anycast.eu.org
-ts.hpc.tw
-cdn.xn--b6gac.eu.org
-cdn-all.xn--b6gac.eu.org
-bestproxy.onecf.eu.org
+cdn-b100.xn--b6gac.eu.org#proxy랜덤1
+proxy.xxxxxxxx.tk#proxy랜덤2
+edgetunnel.anycast.eu.org#proxy랜덤3
 
 info.cloudflare.com#마이서버
 
