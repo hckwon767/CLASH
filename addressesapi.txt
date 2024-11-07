@@ -14,7 +14,7 @@
 [2606:4700:99ed::3b1d:681b]:443#AMS ipv6
 [2606:4700:3034::3179:20c2]:443#LHR ipv6
 
-219.76.13.164:443#HK test333
+219.76.13.164:443#HK 홍콩서버
 
 cdn-b100.xn--b6gac.eu.org#proxy랜덤1
 proxy.xxxxxxxx.tk#proxy랜덤2
