@@ -265,5 +265,3 @@ pranab.ns.cloudflare.com#™️ORIGINAL
 theo.ns.cloudflare.com#™️ORIGINAL
 sage.ns.cloudflare.com#™️ORIGINAL
 arvind.ns.cloudflare.com#™️ORIGINAL
-2606:4700:310c::ac42:2c94#IPV6 서버1
-2606:4700:310c::ac42:2f6c#IPV6 서버2
