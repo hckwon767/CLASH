@@ -264,6 +264,7 @@
 104.19.55.139#HK
 104.19.54.40#HK
 
+developers.cloudflare.com#™️ORIGINAL best speed
 romina.ns.cloudflare.com#™️ORIGINAL
 kyle.ns.cloudflare.com#™️ORIGINAL
 kinsley.ns.cloudflare.com#™️ORIGINAL
