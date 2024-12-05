@@ -264,24 +264,12 @@
 104.19.55.139#HK
 104.19.54.40#HK
 
-developers.cloudflare.com#™️ORIGINAL best speed
-romina.ns.cloudflare.com#™️ORIGINAL
-kyle.ns.cloudflare.com#™️ORIGINAL
-kinsley.ns.cloudflare.com#™️ORIGINAL
-sullivan.ns.cloudflare.com#™️ORIGINAL
-hugh.ns.cloudflare.com#™️ORIGINAL
-surina.ns.cloudflare.com#™️ORIGINAL
-melina.ns.cloudflare.com#™️ORIGINAL
-kaiser.ns.cloudflare.com#™️ORIGINAL
-fred.ns.cloudflare.com#™️ORIGINAL
-poppy.ns.cloudflare.com#™️ORIGINAL
-ignacio.ns.cloudflare.com#™️ORIGINAL
-kip.ns.cloudflare.com#™️ORIGINAL
-thaddeus.ns.cloudflare.com#™️ORIGINAL
-duke.ns.cloudflare.com#™️ORIGINAL
-damien.ns.cloudflare.com#™️ORIGINAL
-lynn.ns.cloudflare.com#™️ORIGINAL
-pranab.ns.cloudflare.com#™️ORIGINAL
-theo.ns.cloudflare.com#™️ORIGINAL
-sage.ns.cloudflare.com#™️ORIGINAL
-arvind.ns.cloudflare.com#™️ORIGINAL
+developers.cloudflare.com#⛄™️ORIGINAL best speed
+community.cloudflare.com#⛄™️ORIGINAL
+support.cloudflare.com#⛄™️ORIGINAL
+dash.cloudflare.com#⛄™️ORIGINAL
+domains.cloudflare.com#⛄™️ORIGINAL
+radar.cloudflare.com#⛄™️ORIGINAL
+blog.cloudflare.com#⛄™️ORIGINAL
+cloudflare.tv#⛄™️ORIGINAL
+cloudflare.net#⛄™️ORIGINAL
