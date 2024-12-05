@@ -264,12 +264,12 @@
 104.19.55.139#HK
 104.19.54.40#HK
 
-developers.cloudflare.com#🐳™️ORIGINAL best speed
-community.cloudflare.com#🐳™️ORIGINAL
-support.cloudflare.com#🐳™️ORIGINAL
-dash.cloudflare.com#🐳™️ORIGINAL
-domains.cloudflare.com#🐳™️ORIGINAL
-radar.cloudflare.com#🐳™️ORIGINAL
-blog.cloudflare.com#🐳™️ORIGINAL
-cloudflare.tv#🐳™️ORIGINAL
-cloudflare.net#🐳™️ORIGINAL
+developers.cloudflare.com #🐳ORIGINAL best speed
+community.cloudflare.com #🐳ORIGINAL
+support.cloudflare.com #🐳ORIGINAL
+dash.cloudflare.com #🐳ORIGINAL
+domains.cloudflare.com #🐳ORIGINAL
+radar.cloudflare.com #🐳ORIGINAL
+blog.cloudflare.com #🐳ORIGINAL
+cloudflare.tv #🐳ORIGINAL
+cloudflare.net #🐳ORIGINAL
