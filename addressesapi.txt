@@ -264,7 +264,7 @@
 104.19.55.139#HK
 104.19.54.40#HK
 
-developers.cloudflare.com#⛄™️ORIGINAL best speed
+developers.cloudflare.com#💻™️ORIGINAL best speed
 community.cloudflare.com#⛄™️ORIGINAL
 support.cloudflare.com#⛄™️ORIGINAL
 dash.cloudflare.com#⛄™️ORIGINAL
