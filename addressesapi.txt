@@ -16,7 +16,7 @@
 [2606:4700:3036:ef:db9e:ee41:a8df:d3b2]:2053#IPV6 서버16
 [2606:4700:3036:0:a36a:4a94:8d40:c92c]:2087#IPV6 서버17
 [2606:4700:3036:6ed4:ffdf:f2ba:820b:ed5c]:2096#IPV6 서버18
-
+[2606:4700::6810:2bd]:443#HK 🐳IPV6 ORIGNAL
 162.159.62.59#shenzhen fast1
 
 123.202.145.26:443 #Hong Kong Broadband Network (HK)
