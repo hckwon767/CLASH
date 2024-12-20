@@ -25,17 +25,27 @@ cloudflare.net:443#HK 🐳ORIGINAL
 138.3.215.231:44784#JP 🐳Oracle Cloud
 141.147.186.249:4308#JP 🐳Oracle Cloud
 
-210.222.173.61:22925#KR 🐳KT
-210.222.173.61:18432#KR 🐳KT
-1.176.166.137:30012#KR 🐳LG HelloVision Corp
-119.206.67.111:22445#KR 🐳KT
-211.114.195.107:18080#KR 🐳KT
-211.248.226.118:30059#KR 🐳KT
-183.97.42.94:22751#KR 🐳KT
-183.97.42.94:14662#KR 🐳KT
-221.160.155.189:39558#KR 🐳KT
-221.160.155.189:30381#KR 🐳KT
-221.160.155.189:21814#KR 🐳KT
+193.122.126.64:53777#KR 🐳Oracle Cloud
+146.56.182.59:29522#KR 🐳Oracle Cloud
+132.145.89.35:6688#KR 🐳Oracle Cloud
+138.2.127.24:587#KR 🐳Oracle Cloud
+152.69.229.175:22558#KR 🐳Oracle Cloud
+131.186.24.124:587#KR 🐳Oracle Cloud
+158.180.82.203:8443#KR 🐳Oracle Cloud
+146.56.112.139:19276#KR 🐳Oracle Cloud
+132.226.236.86:32505#KR 🐳Oracle Cloud
+152.67.197.197:19120#KR 🐳Oracle Cloud
+146.56.46.84:443#KR 🐳Oracle Cloud
+146.56.99.255:56789#KR 🐳Oracle Cloud
+129.154.223.89:15800#KR 🐳Oracle Cloud
+144.24.72.93:587#KR 🐳Oracle Cloud
+132.145.84.148:39567#KR 🐳Oracle Cloud
+20.214.143.77:587#KR 🐳Microsoft Azure
+152.69.224.130:2296#KR 🐳Oracle Cloud
+152.69.224.130:2186#KR 🐳Oracle Cloud
+146.56.162.25:443#KR 🐳Oracle Cloud
+129.154.63.46:54077#KR 🐳Cloudflare Warp
+147.46.31.247:30070#KR 🐳Seoul National University
 
 43.129.160.101:54739#HK 🐳Tencent cloud computing
 103.195.49.225:1009#HK 🐳Dimension Network & Communication
