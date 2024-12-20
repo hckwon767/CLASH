@@ -34,7 +34,7 @@ cloudflare.net:443#HK 🐳ORIGINAL
 49.165.19.175:39533#KR 🐳LG Uplus
 211.214.204.191:30038#KR 🐳SK Broadband
 211.214.204.191:50003#KR 🐳SK Broadband
-141.11.148.62,443#HK 🐳Akile
+141.11.148.62:443#HK 🐳Akile
 34.92.105.182:57820#HK 🐳Google Cloud
 8.210.153.110:587#HK 🐳Alibaba
 206.237.6.57:443#HK 🐳Overland Storage
