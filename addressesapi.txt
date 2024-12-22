@@ -8,50 +8,454 @@ blog.cloudflare.com:443#HK 🐳ORIGINAL
 cloudflare.tv:443#HK 🐳ORIGINAL
 cloudflare.net:443#HK 🐳ORIGINAL
 
+103.186.1.209:2053#ID 🐳PT Cloud Hosting Indonesia
+103.168.146.169:20132#ID 🐳PT Herza Digital Indonesia
+172.232.239.147:587#ID 🐳Akamai Connected Cloud
+172.232.239.151:587#ID 🐳Akamai Connected Cloud
+103.133.223.50:2096#ID 🐳Cloud Teknologi Nusantara
 35.219.50.99:443#ID 🐳Google LLC
+172.232.239.134:587#ID 🐳Akamai Connected Cloud
+103.6.207.108:8080#ID 🐳PT Pusat Media Indonesia
+103.133.223.51:2096#ID 🐳Cloud Teknologi Nusantara
+43.133.145.156:53136#ID 🐳Tencent cloud computing
+172.232.239.175:587#ID 🐳Akamai Connected Cloud
 35.219.15.90:443#ID 🐳Google LLC
-
-138.2.69.100:10002#SG 🐳Oracle Cloud
+210.186.12.244:443#MY 🐳TM Net
+172.232.239.249:587#ID 🐳Akamai Connected Cloud
+103.133.223.52:2096#ID 🐳Cloud Teknologi Nusantara
+45.195.76.190:29690#MY 🐳Evoxt Enterprise
+45.195.69.98:30726#MY 🐳Evoxt Enterprise
+154.90.39.188:48071#MY 🐳LightNode_Limited
+47.236.22.194:52324#SG 🐳Alibaba
+38.181.70.7:16240#SG 🐳Eons Data Communications
+8.219.237.57:31523#SG 🐳Alibaba
+54.169.229.188:443#SG 🐳Amazoncom
+129.150.49.58:18650#SG 🐳Oracle Cloud
+168.138.166.213:10500#SG 🐳Oracle Cloud
+47.74.254.191:8900#SG 🐳Alibaba
+194.127.193.240:50791#SG 🐳Leaseweb Asia
+161.117.249.114:2025#SG 🐳Alibaba Cloud
+43.156.16.213:31528#SG 🐳Tencent cloud computing
+64.176.84.144:81#SG 🐳Vultr
+47.245.95.160:1443#SG 🐳Alibaba
+103.180.161.10:587#SG 🐳HONG KONG Megalayer Technology Co
+103.180.161.123:587#SG 🐳HONG KONG Megalayer Technology Co
+139.180.144.170:666#SG 🐳Vultr
+158.178.225.124:53618#SG 🐳Oracle Cloud
+158.178.225.124:37497#SG 🐳Oracle Cloud
+138.2.74.219:28616#SG 🐳Cloudflare Warp
+158.178.225.124:12934#SG 🐳Oracle Cloud
+158.178.225.124:37461#SG 🐳Oracle Cloud
+213.35.108.135:12596#SG 🐳Oracle Cloud
+47.236.25.107:27903#SG 🐳Alibaba
+47.236.173.166:587#SG 🐳Alibaba
+47.236.119.190:51342#SG 🐳Alibaba
+139.180.215.77:57878#SG 🐳Vultr
+51.79.158.126:443#SG 🐳OVH Hosting
+47.236.246.163:14108#SG 🐳Alibaba
+8.222.129.175:58808#SG 🐳Alibaba
+8.222.220.81:25435#SG 🐳Alibaba
+8.219.197.113:45714#SG 🐳Alibaba
+143.198.213.197:443#SG 🐳Digital Ocean
+143.198.213.197:8443#SG 🐳Digital Ocean
+192.53.113.156:587#SG 🐳Akamai Connected Cloud
+47.236.181.185:8443#SG 🐳Alibaba
+45.77.36.40:443#SG 🐳Vultr
+45.32.100.46:13802#SG 🐳Vultr
+138.2.89.238:43254#SG 🐳Oracle Cloud
+146.235.16.65:15174#SG 🐳Oracle Cloud
+168.138.178.6:19990#SG 🐳Oracle Cloud
+138.2.77.179:30018#SG 🐳Oracle Cloud
+139.162.48.174:10000#SG 🐳Akamai Connected Cloud
+129.150.36.188:53435#SG 🐳Oracle Cloud
+8.222.143.82:24245#SG 🐳Alibaba
+119.81.201.154:9089#SG 🐳SoftLayer Technologies
+178.128.80.43:443#SG 🐳Digital Ocean
+103.180.161.69:587#SG 🐳HONG KONG Megalayer Technology Co
+94.237.75.31:62174#SG 🐳UpCloud
+143.42.68.97:17055#SG 🐳Akamai Connected Cloud
+194.127.193.124:24467#SG 🐳Leaseweb Asia
+8.219.254.209:41101#SG 🐳Alibaba
+8.222.243.73:26385#SG 🐳Alibaba
+45.77.171.102:3128#SG 🐳Vultr
+3.1.94.232:443#SG 🐳Amazoncom
 168.138.160.54:19081#SG 🐳Oracle Cloud
 138.2.95.33:17465#SG 🐳Oracle Cloud
 168.138.170.211:53702#SG 🐳Oracle Cloud
-
-123.223.207.207:25576#JP 🐳NTT
-103.121.209.44:587#JP 🐳xTom Japan Co
+15.235.162.49:443#SG 🐳OVHcloud
+129.150.58.86:57621#SG 🐳Oracle Cloud
+146.190.111.165:443#SG 🐳Digital Ocean
+45.76.183.217:49292#SG 🐳Vultr
+51.79.254.182:443#SG 🐳OVH Hosting
+146.235.18.248:45137#SG 🐳Oracle Cloud
+139.162.33.248:587#SG 🐳Akamai Connected Cloud
+152.42.172.170:8443#SG 🐳Digital Ocean
+168.138.183.48:9090#SG 🐳Oracle Cloud
+185.126.80.215:25565#SG 🐳Akile
+104.248.146.212:2053#SG 🐳Digital Ocean
+104.248.146.212:8443#SG 🐳Digital Ocean
+8.222.212.110:1103#SG 🐳Alibaba
+213.35.107.73:443#SG 🐳Oracle Cloud
+47.245.86.45:40692#SG 🐳Alibaba
+138.2.111.140:10010#SG 🐳Oracle Cloud
+172.104.170.159:8443#SG 🐳Akamai Connected Cloud
+172.104.170.159:2053#SG 🐳Akamai Connected Cloud
+167.71.194.185:8443#SG 🐳Digital Ocean
+206.206.76.208:2053#SG 🐳Regxa Cloud
+206.206.76.208:8443#SG 🐳Regxa Cloud
+167.253.158.63:8443#SG 🐳Leaseweb Asia
+167.253.158.63:2053#SG 🐳Leaseweb Asia
+178.128.91.137:443#SG 🐳Digital Ocean
+43.156.6.97:10392#SG 🐳Tencent cloud computing
+47.245.91.197:9000#SG 🐳Alibaba
+178.128.89.45:8443#SG 🐳Digital Ocean
+185.81.29.113:8080#SG 🐳Akile
+194.36.179.5:2053#SG 🐳Neapol Group Ltd
+138.2.69.236:23334#SG 🐳Oracle Cloud
+213.35.115.254:23936#SG 🐳Oracle Cloud
+8.219.58.164:57373#SG 🐳Alibaba
+51.79.158.58:8443#SG 🐳OVH Hosting
+178.128.48.16:8443#SG 🐳Digital Ocean
+51.79.158.58:2053#SG 🐳OVH Hosting
+213.35.100.31:47112#SG 🐳Oracle Cloud
+31.192.238.71:8443#SG 🐳Chelyabinsk-Signal
+43.156.97.73:57145#SG 🐳Tencent cloud computing
+31.192.238.71:2053#SG 🐳Chelyabinsk-Signal
+15.235.199.103:2053#SG 🐳OVHcloud
+15.235.199.103:8443#SG 🐳OVHcloud
+158.178.228.8:10010#SG 🐳Oracle Cloud
+158.178.246.142:61731#SG 🐳Oracle Cloud
+20.198.241.32:2053#SG 🐳Microsoft Azure
+158.178.243.152:61731#SG 🐳Oracle Cloud
+8.219.3.213:58272#SG 🐳Alibaba
+8.219.3.213:41074#SG 🐳Alibaba
+104.248.154.142:8443#SG 🐳Digital Ocean
+104.248.154.142:2053#SG 🐳Digital Ocean
+143.198.196.196:8443#SG 🐳Digital Ocean
+143.198.196.196:2053#SG 🐳Digital Ocean
+43.134.99.162:51686#SG 🐳Nexeon Technologies
+91.192.81.154:8443#SG 🐳Melbikomas UAB
+168.138.181.188:61731#SG 🐳Oracle Cloud
+163.47.9.27:2053#SG 🐳Digital Ocean
+91.192.81.154:2053#SG 🐳Melbikomas UAB
+163.47.9.27:8443#SG 🐳Digital Ocean
+168.138.171.70:23280#SG 🐳Oracle Cloud
+45.76.156.96:2053#SG 🐳Vultr
+158.178.240.232:23559#SG 🐳Cloudflare Warp
+158.178.240.232:10258#SG 🐳Cloudflare Warp
+152.69.210.245:2053#SG 🐳Oracle Cloud
+38.180.190.136:8443#SG 🐳M247 Europe
+27.0.234.146:19886#SG 🐳WebHorizon Internet Services
+82.197.69.135:43536#SG 🐳Contabo Asia Private
+69.161.221.117:63258#SG 🐳Leaseweb Asia
+8.222.173.58:23390#SG 🐳Alibaba
+158.178.236.14:61731#SG 🐳Oracle Cloud
+146.235.19.79:28983#SG 🐳Oracle Cloud
+129.150.41.174:16462#SG 🐳Oracle Cloud
+194.36.178.36:2053#SG 🐳Neapol Group Ltd
+194.36.178.36:8443#SG 🐳Neapol Group Ltd
+51.79.250.33:2053#SG 🐳OVH Hosting
+51.79.250.33:8443#SG 🐳OVH Hosting
+138.2.89.64:32962#SG 🐳Oracle Cloud
+5.223.49.4:2053#SG 🐳Hetzner Online
+152.69.220.136:53076#SG 🐳Oracle Cloud
+138.2.85.23:8080#SG 🐳Oracle Cloud
+8.219.59.132:48130#SG 🐳Alibaba
+178.128.54.16:8443#SG 🐳Digital Ocean
+128.199.177.142:8443#SG 🐳Digital Ocean
+68.183.179.5:2053#SG 🐳Digital Ocean
+178.128.54.16:2053#SG 🐳Digital Ocean
+68.183.179.5:8443#SG 🐳Digital Ocean
+138.2.81.243:45319#SG 🐳Oracle Cloud
+194.36.179.17:8443#SG 🐳Neapol Group Ltd
+194.36.179.17:2053#SG 🐳Neapol Group Ltd
+185.81.28.95:30503#SG 🐳Akile
+146.190.192.88:8443#SG 🐳Digital Ocean
+129.150.62.1:24016#SG 🐳Oracle Cloud
+47.236.86.17:49257#SG 🐳Alibaba
+167.172.90.142:2053#SG 🐳Digital Ocean
+167.172.90.142:8443#SG 🐳Digital Ocean
+128.199.171.100:8443#SG 🐳Digital Ocean
+128.199.171.100:2053#SG 🐳Digital Ocean
+157.245.158.97:8443#SG 🐳Digital Ocean
+64.49.14.41:8443#SG 🐳Latitude-sh
+152.42.233.116:2053#SG 🐳Digital Ocean
+38.54.16.95:2053#SG 🐳Kaopu Cloud HK
+43.134.181.60:38371#SG 🐳Tencent cloud computing
+43.156.26.205:23654#SG 🐳Tencent cloud computing
+84.247.49.211:8443#SG 🐳M247 Europe
+64.49.14.41:2053#SG 🐳Latitude-sh
+152.42.233.116:8443#SG 🐳Digital Ocean
+84.247.49.210:8443#SG 🐳M247 Europe
+104.248.145.216:443#SG 🐳Digital Ocean
+139.177.190.120:8443#SG 🐳Akamai Connected Cloud
+139.177.190.120:2053#SG 🐳Akamai Connected Cloud
+103.20.199.101:33004#JP 🐳Nearoute
+149.28.22.198:2053#JP 🐳Vultr
+125.204.173.119:10884#JP 🐳NTT
+140.83.57.114:25965#JP 🐳Oracle Cloud
+149.28.22.198:8443#JP 🐳Vultr
+149.28.22.198:8335#JP 🐳Vultr
+158.101.146.3:54516#JP 🐳Oracle Cloud
+132.145.124.43:12509#JP 🐳Oracle Cloud
+132.145.124.43:12510#JP 🐳Oracle Cloud
+138.2.12.10:45805#JP 🐳Oracle Cloud
+158.101.146.3:44872#JP 🐳Oracle Cloud
+132.145.124.43:12502#JP 🐳Oracle Cloud
+45.32.59.97:34567#JP 🐳Vultr
+159.100.194.42:443#JP 🐳Aryaka Networks
+125.204.173.119:22259#JP 🐳NTT
+125.204.173.119:10206#JP 🐳NTT
+38.47.104.219:35149#JP 🐳Nearoute
+45.12.134.207:443#JP 🐳Stark Industries Solutions
+192.243.120.82:50822#JP 🐳IT7 Networks
+198.13.42.58:32954#JP 🐳Vultr
+45.76.198.248:443#JP 🐳Vultr
+168.138.40.157:40990#JP 🐳Oracle Cloud
+158.101.154.245:47001#JP 🐳Oracle Cloud
+61.192.123.93:35041#JP 🐳JCOM Co
+61.192.123.93:25536#JP 🐳JCOM Co
+61.192.123.93:16208#JP 🐳JCOM Co
+61.192.123.93:22627#JP 🐳JCOM Co
+126.124.125.109:17235#JP 🐳SoftBank Corp
+212.50.251.250:2346#JP 🐳IT7 Networks
+122.134.246.139:14089#JP 🐳Biglobe
+150.230.5.34:45681#JP 🐳Oracle Cloud
+202.144.192.76:443#JP 🐳IPTELECOM Global
+141.147.183.49:29876#JP 🐳Oracle Cloud
+150.230.214.172:16957#JP 🐳Oracle Cloud
+163.131.23.122:37561#JP 🐳Hachinohe Cable Television Co
+163.131.23.122:29377#JP 🐳Hachinohe Cable Television Co
+163.131.23.122:31768#JP 🐳Hachinohe Cable Television Co
+163.131.23.122:22649#JP 🐳Hachinohe Cable Television Co
+64.176.39.147:16387#JP 🐳Vultr
 138.2.10.217:27446#JP 🐳Oracle Cloud
-132.226.1.227:443#JP 🐳Oracle Cloud
+163.131.23.122:23308#JP 🐳Hachinohe Cable Television Co
 168.138.39.244:47324#JP 🐳Oracle Cloud
 140.238.62.82:1443#JP 🐳Oracle Cloud
 138.3.215.231:44784#JP 🐳Oracle Cloud
 141.147.186.249:4308#JP 🐳Oracle Cloud
-
-193.122.126.64:53777#KR 🐳Oracle Cloud
-146.56.182.59:29522#KR 🐳Oracle Cloud
-132.145.89.35:6688#KR 🐳Oracle Cloud
-138.2.127.24:587#KR 🐳Oracle Cloud
-152.69.229.175:22558#KR 🐳Oracle Cloud
-131.186.24.124:587#KR 🐳Oracle Cloud
-158.180.82.203:8443#KR 🐳Oracle Cloud
-146.56.112.139:19276#KR 🐳Oracle Cloud
-132.226.236.86:32505#KR 🐳Oracle Cloud
-152.67.197.197:19120#KR 🐳Oracle Cloud
-146.56.46.84:443#KR 🐳Oracle Cloud
-146.56.99.255:56789#KR 🐳Oracle Cloud
-129.154.223.89:15800#KR 🐳Oracle Cloud
-144.24.72.93:587#KR 🐳Oracle Cloud
-132.145.84.148:39567#KR 🐳Oracle Cloud
-20.214.143.77:587#KR 🐳Microsoft Azure
-152.69.224.130:2296#KR 🐳Oracle Cloud
-152.69.224.130:2186#KR 🐳Oracle Cloud
-146.56.162.25:443#KR 🐳Oracle Cloud
-129.154.63.46:54077#KR 🐳Cloudflare Warp
-147.46.31.247:30070#KR 🐳Seoul National University
-
-43.129.160.101:54739#HK 🐳Tencent cloud computing
-103.195.49.225:1009#HK 🐳Dimension Network & Communication
-8.218.236.40:58030#HK 🐳Alibaba
-43.252.41.204:2443#HK 🐳CommuniLink Internet
-128.1.132.82:443#HK 🐳Ucloud Information Technology Hk
-113.253.124.194:11457#HK 🐳HGC Broadband
-147.92.41.168:1009#HK 🐳Dimension Network & Communication
-129.227.139.137:443#HK 🐳Zenlayer
+150.230.108.124:8832#JP 🐳Oracle Cloud
+138.2.12.103:14453#JP 🐳Cloudflare Warp
+103.75.118.251:5900#JP 🐳BrainStorm Network
+176.97.73.20:443#JP 🐳M247 Europe
+138.2.12.103:14458#JP 🐳Cloudflare Warp
+13.230.34.30:443#JP 🐳Amazoncom
+217.142.230.253:587#JP 🐳Oracle Cloud
+85.113.70.29:19125#JP 🐳xTom Japan Co
+119.242.45.183:21054#JP 🐳Biglobe
+119.230.140.228:10067#JP 🐳K-Opticom Corporation
+138.2.23.218:47598#JP 🐳Cloudflare Warp
+168.138.213.15:36008#JP 🐳Oracle Cloud
+212.52.0.61:1846#JP 🐳HostHatch
+20.243.85.49:10443#JP 🐳Microsoft Azure
+219.111.17.202:443#JP 🐳Internet Initiative Japan
+45.32.255.20:46326#JP 🐳Vultr
+45.66.129.8:1233#JP 🐳xTom Japan Co
+217.142.250.195:587#JP 🐳Oracle Cloud
+150.230.97.136:12502#JP 🐳Oracle Cloud
+202.60.191.6:17922#JP 🐳Ztv Co
+202.60.191.6:29192#JP 🐳Ztv Co
+128.1.18.29:443#JP 🐳Zenlayer
+3.112.21.102:443#JP 🐳Amazoncom
+217.142.243.226:443#JP 🐳Oracle Cloud
+168.138.33.153:33613#JP 🐳Oracle Cloud
+149.28.30.146:44243#JP 🐳Vultr
+152.69.202.57:14325#JP 🐳Oracle Cloud
+138.2.44.108:44443#JP 🐳Oracle Cloud
+217.142.239.92:42782#JP 🐳Oracle Cloud
+158.101.152.6:2919#JP 🐳Oracle Cloud
+140.238.56.153:1443#JP 🐳Oracle Cloud
+158.101.154.52:37200#JP 🐳Oracle Cloud
+140.83.35.254:48170#JP 🐳Oracle Cloud
+64.176.42.6:443#JP 🐳Vultr
+203.76.72.166:15713#JP 🐳Kurashiki Cable TV
+153.229.189.12:17687#JP 🐳NTT
+141.147.184.160:443#JP 🐳Oracle Cloud
+168.138.204.44:587#JP 🐳Oracle Cloud
+126.26.53.234:31769#JP 🐳SoftBank Corp
+158.101.76.55:21953#JP 🐳Oracle Cloud
+172.84.92.152:58723#JP 🐳Nearoute
+45.77.130.245:443#JP 🐳Vultr
+52.68.248.185:443#JP 🐳Amazoncom
+54.249.135.43:443#JP 🐳Amazoncom
+192.243.124.73:8443#JP 🐳IT7 Networks
+150.230.107.70:587#JP 🐳Oracle Cloud
+203.140.245.115:21079#JP 🐳Kurashiki Cable TV
+176.119.148.163:443#JP 🐳Hurricane Electric IPv6 tunnel broker
+42.147.103.54:13758#JP 🐳J:COM
+42.147.103.54:26305#JP 🐳J:COM
+42.147.103.54:29332#JP 🐳J:COM
+42.147.103.54:31962#JP 🐳J:COM
+213.218.254.248:8443#JP 🐳Akile
+42.147.103.54:34108#JP 🐳J:COM
+152.69.199.70:8443#JP 🐳Oracle Cloud
+45.76.195.196:26731#JP 🐳Vultr
+138.2.59.96:10129#JP 🐳Oracle Cloud
+64.110.101.90:55007#JP 🐳Oracle Cloud
+133.167.108.98:443#JP 🐳SAKURA Internet
+45.137.180.123:443#JP 🐳Akari Networks
+182.165.60.3:32772#JP 🐳K-Opticom Corporation
+182.165.60.3:27304#JP 🐳K-Opticom Corporation
+36.53.244.101:32187#JP 🐳STNet Incorporated
+101.1.134.125:12026#JP 🐳STNet Incorporated
+38.180.29.115:443#JP 🐳M247 Europe
+121.85.55.59:19842#JP 🐳K-Opticom Corporation
+43.163.207.12:52025#JP 🐳Tencent cloud computing
+141.98.196.180:36257#JP 🐳xTom
+125.13.98.238:11299#JP 🐳J:COM
+138.2.32.76:15821#JP 🐳Oracle Cloud
+178.173.230.214:1654#JP 🐳ALVIDI
+45.78.61.49:10484#JP 🐳IT7 Networks
+152.69.206.115:21552#JP 🐳Oracle Cloud
+8.216.81.183:3939#JP 🐳Alibaba
+43.239.249.54:443#JP 🐳xTom Japan Co
+138.2.49.197:587#JP 🐳Oracle Cloud
+141.147.144.15:13357#JP 🐳Oracle Cloud
+168.138.197.97:8443#JP 🐳Oracle Cloud
+141.147.155.5:54443#JP 🐳Oracle Cloud
+139.162.102.152:7002#JP 🐳Akamai Connected Cloud
+141.147.178.249:37043#JP 🐳Oracle Cloud
+150.230.204.21:3742#JP 🐳Oracle Cloud
+150.230.204.21:10243#JP 🐳Oracle Cloud
+8.209.217.106:587#JP 🐳Alibaba
+3.113.64.82:443#JP 🐳Amazoncom
+45.66.129.222:16538#JP 🐳Cloudflare Warp
+206.190.234.92:58505#JP 🐳IT7 Networks Inc
+141.98.197.101:11665#JP 🐳xTom Japan Co
+133.123.32.192:26656#JP 🐳STNet Incorporated
+8.209.217.106:443#JP 🐳Alibaba
+219.117.2.190:57517#JP 🐳J:COM
+219.117.2.190:48401#JP 🐳J:COM
+59.168.101.226:33648#JP 🐳J:COM
+140.83.37.134:46478#JP 🐳Oracle Cloud
+59.168.101.226:11931#JP 🐳J:COM
+149.28.21.106:443#JP 🐳Vultr
+80.96.156.113:443#JP 🐳M247 Europe
+47.245.59.226:59215#JP 🐳Alibaba
+222.148.149.133:35313#JP 🐳NTT
+8.209.220.155:587#JP 🐳Alibaba
+168.138.201.26:10000#JP 🐳Oracle Cloud
+168.138.201.26:38455#JP 🐳Oracle Cloud
+152.70.82.101:18650#JP 🐳Oracle Cloud
+103.238.129.215:42734#JP 🐳Wapac
+203.92.19.245:19090#JP 🐳Seikei Eizo Network
+158.101.150.33:17421#JP 🐳Oracle Cloud
+168.138.213.1:50003#JP 🐳Oracle Cloud
+168.138.53.119:20644#JP 🐳Oracle Cloud
+118.27.12.40:38443#JP 🐳GMO Internet
+168.138.201.26:53619#JP 🐳Hurricane Electric IPv6 tunnel broker
+168.138.201.26:49163#JP 🐳Hurricane Electric IPv6 tunnel broker
+153.174.24.218:24759#JP 🐳NTT
+80.96.156.226:44415#JP 🐳M247 Europe
+35.77.126.144:443#JP 🐳Amazoncom
+153.174.24.218:20473#JP 🐳NTT
+153.174.24.218:18809#JP 🐳NTT
+138.2.48.109:26412#JP 🐳Oracle Cloud
+140.83.57.20:13118#JP 🐳Oracle Cloud
+138.2.46.179:10928#JP 🐳Oracle Cloud
+5.226.48.84:443#JP 🐳Akari Networks
+103.75.118.144:2053#JP 🐳BrainStorm Network
+91.194.160.75:2053#JP 🐳Stark Industries Solutions
+138.2.10.149:45638#JP 🐳Oracle Cloud
+158.101.85.23:41092#JP 🐳Oracle Cloud
+94.177.131.183:2053#JP 🐳G-Core Labs SA
+45.77.25.6:27854#JP 🐳Vultr
+132.145.126.40:32498#JP 🐳Oracle Cloud
+89.187.160.73:8443#JP 🐳Datacamp
+45.77.25.6:48828#JP 🐳Vultr
+94.177.131.183:8443#JP 🐳G-Core Labs SA
+45.66.218.194:12965#JP 🐳xTom Japan Co
+138.2.56.246:443#JP 🐳Oracle Cloud
+38.47.98.53:4379#JP 🐳VMISS
+43.133.10.236:33405#JP 🐳Tencent cloud computing
+45.32.33.0:2053#JP 🐳Vultr
+89.187.160.75:8443#JP 🐳Datacamp
+168.138.211.207:15691#JP 🐳Oracle Cloud
+168.138.46.67:443#JP 🐳Oracle Cloud
+168.138.193.174:11959#JP 🐳Oracle Cloud
+116.222.95.137:28375#JP 🐳J:COM
+103.20.199.118:12999#JP 🐳Nearoute
+45.12.134.149:2053#JP 🐳Stark Industries Solutions
+185.18.222.242:2053#JP 🐳Latitude-sh
+45.76.192.129:24434#JP 🐳Vultr
+185.18.222.242:8443#JP 🐳Latitude-sh
+23.106.130.200:80#JP 🐳IT7 Networks Inc
+38.180.28.163:8443#JP 🐳M247 Europe
+131.186.63.89:11655#JP 🐳Oracle Cloud
+38.180.28.163:2053#JP 🐳M247 Europe
+108.61.181.164:10014#JP 🐳Vultr
+139.162.127.55:18836#JP 🐳Akamai Connected Cloud
+108.61.181.164:10019#JP 🐳Vultr
+154.19.186.124:16873#JP 🐳Silicon Cloud Global US
+176.97.70.51:2053#JP 🐳M247 Europe
+176.97.73.82:8443#JP 🐳M247 Europe
+176.97.73.82:2053#JP 🐳M247 Europe
+140.83.59.158:15805#JP 🐳Oracle Cloud
+141.11.139.211:8443#JP 🐳Nearoute
+138.2.21.196:44333#JP 🐳Oracle Cloud
+45.12.134.250:8443#JP 🐳Stark Industries Solutions
+91.194.160.79:2053#JP 🐳Stark Industries Solutions
+140.83.57.183:22735#JP 🐳Oracle Cloud
+138.2.19.1:61731#JP 🐳Oracle Cloud
+141.147.161.249:51037#JP 🐳Oracle Cloud
+45.12.134.250:2053#JP 🐳Stark Industries Solutions
+91.194.160.79:8443#JP 🐳Stark Industries Solutions
+108.160.139.154:2053#JP 🐳Vultr
+108.160.139.154:8443#JP 🐳Vultr
+138.3.222.124:46209#JP 🐳Oracle Cloud
+147.45.49.107:8443#JP 🐳Global Connectivity Solutions Llp
+147.45.49.107:2053#JP 🐳Global Connectivity Solutions Llp
+168.138.43.25:18596#JP 🐳Oracle Cloud
+158.101.91.164:37723#JP 🐳Oracle Cloud
+103.106.228.126:2053#JP 🐳BrainStorm Network
+8.209.220.50:21273#JP 🐳Alibaba
+89.187.160.66:8443#JP 🐳Datacamp
+168.138.46.115:43138#JP 🐳Oracle Cloud
+45.12.134.204:2053#JP 🐳Stark Industries Solutions
+45.12.134.204:8443#JP 🐳Stark Industries Solutions
+103.160.100.205:29844#JP 🐳Awesomecloud
+140.238.37.103:14782#JP 🐳Oracle Cloud
+140.83.56.110:56417#JP 🐳Oracle Cloud
+103.232.213.117:8080#JP 🐳Akile
+132.145.116.192:44009#JP 🐳Oracle Cloud
+131.186.33.175:443#JP 🐳Oracle Cloud
+138.2.36.157:8443#JP 🐳Oracle Cloud
+141.147.163.68:443#JP 🐳Oracle Cloud
+158.101.94.178:25426#JP 🐳Oracle Cloud
+172.105.233.112:18836#JP 🐳Akamai Connected Cloud
+168.138.192.16:54584#JP 🐳Oracle Cloud
+155.248.178.58:80#JP 🐳Oracle Cloud
+132.145.123.180:61731#JP 🐳Oracle Cloud
+168.138.201.217:59217#JP 🐳Cloudflare Warp
+185.18.222.208:2053#JP 🐳Latitude-sh
+168.138.198.7:27560#JP 🐳Oracle Cloud
+185.39.31.121:2053#JP 🐳Friendhosting LTD
+185.39.31.121:8443#JP 🐳Friendhosting LTD
+103.232.214.11:8443#JP 🐳NPO G-net
+132.226.8.109:43257#JP 🐳Oracle Cloud
+152.70.86.58:5656#JP 🐳Oracle Cloud
+152.70.100.102:58312#JP 🐳Cloudflare Warp
+91.194.160.45:2053#JP 🐳Stark Industries Solutions
+91.194.160.45:8443#JP 🐳Stark Industries Solutions
+139.162.127.39:18836#JP 🐳Akamai Connected Cloud
+221.171.69.200:11767#JP 🐳Biglobe
+152.70.85.165:19089#JP 🐳Oracle Cloud
+138.2.19.28:61731#JP 🐳Oracle Cloud
+48.218.160.250:2053#JP 🐳Microsoft Azure
+91.194.160.121:2053#JP 🐳Stark Industries Solutions
+45.12.134.147:2053#JP 🐳Stark Industries Solutions
+82.163.16.69:8080#JP 🐳Akile
+45.12.134.197:8443#JP 🐳Stark Industries Solutions
+45.12.134.197:2053#JP 🐳Stark Industries Solutions
+103.106.228.67:8443#JP 🐳BrainStorm Network
+89.187.160.74:8443#JP 🐳Datacamp
+140.83.83.229:14829#JP 🐳Oracle Cloud
+141.147.152.229:23333#JP 🐳Oracle Cloud
+103.106.228.67:2053#JP 🐳BrainStorm Network
+139.162.86.209:18836#JP 🐳Akamai Connected Cloud
+152.69.192.40:57005#JP 🐳Oracle Cloud
+168.138.50.249:443#JP 🐳Oracle Cloud
+131.186.60.210:443#JP 🐳Oracle Cloud
+103.137.212.47:8443#JP 🐳DMIT
+221.160.155.189:30381#KR 🐳KT
