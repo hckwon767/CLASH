@@ -8,9 +8,6 @@ blog.cloudflare.com:443#HK 🐳ORIGINAL
 cloudflare.tv:443#HK 🐳ORIGINAL
 cloudflare.net:443#HK 🐳ORIGINAL
 
-162.159.195.54:854#HK 🐳CF
-188.114.99.202:945#HK 🐳CF
-
 123.202.145.26:443#HK 🐳Hong Kong Broadband Network
 43.135.2.195:55256#HK 🐳Tencent cloud computing
 46.3.105.191:8443#HK 🐳Nerocloud
