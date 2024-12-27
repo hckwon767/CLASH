@@ -8,6 +8,53 @@ blog.cloudflare.com:443#HK 🐳ORIGINAL
 cloudflare.tv:443#HK 🐳ORIGINAL
 cloudflare.net:443#HK 🐳ORIGINAL
 
+1.176.166.137:30012#KR 🐳LG HelloVision Corp.
+1.176.166.137:50000#KR 🐳LG HelloVision Corp.
+1.176.172.75:50000#KR 🐳LG HelloVision Corp.
+1.176.201.104:25479#KR 🐳LG HelloVision Corp.
+1.177.81.20:10647#KR 🐳LG HelloVision Corp.
+1.177.81.20:12391#KR 🐳LG HelloVision Corp.
+1.177.81.20:14771#KR 🐳LG HelloVision Corp.
+1.177.81.20:15797#KR 🐳LG HelloVision Corp.
+1.177.81.20:16349#KR 🐳LG HelloVision Corp.
+1.177.81.20:19370#KR 🐳LG HelloVision Corp.
+1.177.81.20:21038#KR 🐳LG HelloVision Corp.
+1.177.81.20:23536#KR 🐳LG HelloVision Corp.
+1.177.81.20:27647#KR 🐳LG HelloVision Corp.
+1.177.81.20:30663#KR 🐳LG HelloVision Corp.
+1.180.69.230:11306#CN 🐳CHINANET-BACKBONE
+1.180.69.230:12645#CN 🐳CHINANET-BACKBONE
+1.212.118.35:50000#KR 🐳LG DACOM Corporation
+1.214.134.130:50000#KR 🐳LG DACOM Corporation
+1.214.208.5:30065#KR 🐳LG DACOM Corporation
+1.214.208.5:50000#KR 🐳LG DACOM Corporation
+1.215.13.99:30003#KR 🐳LG DACOM Corporation
+1.215.13.99:30063#KR 🐳LG DACOM Corporation
+1.217.123.214:26628#KR 🐳LG DACOM Corporation
+1.217.135.211:50000#KR 🐳LG DACOM Corporation
+1.220.189.156:23470#KR 🐳LG DACOM Corporation
+1.221.195.172:50000#KR 🐳LG DACOM Corporation
+1.221.220.170:50000#KR 🐳LG DACOM Corporation
+1.249.4.71:50002#KR 🐳SK Broadband Co Ltd
+1.251.127.235:28808#KR 🐳SK Broadband Co Ltd
+1.251.127.235:30011#KR 🐳SK Broadband Co Ltd
+1.251.127.235:50003#KR 🐳SK Broadband Co Ltd
+101.32.10.244:10457#HK 🐳Tencent Building
+101.32.189.119:1996#HK 🐳Tencent Building
+101.32.247.126:725#SG 🐳Tencent Building
+101.32.40.116:8888#HK 🐳Tencent Building
+103.106.230.186:81#TW 🐳BrainStorm Network
+103.115.40.154:33981#HK 🐳rainbow network limited
+103.115.44.87:49322#HK 🐳rainbow network limited
+103.115.44.87:49323#HK 🐳rainbow network limited
+103.118.40.118:42015#HK 🐳CoreNET Inc.
+103.127.248.51:443#HK 🐳ADC GROUP CO.
+103.159.206.159:32819#TW 🐳Emagine Concept
+103.159.207.168:2086#TW 🐳Emagine Concept
+103.159.207.168:2443#TW 🐳Emagine Concept
+103.159.207.172:2086#TW 🐳Emagine Concept
+103.159.207.172:2443#TW 🐳Emagine Concept
+
 123.202.145.26:443#HK 🐳Hong Kong Broadband Network
 43.135.2.195:55256#HK 🐳Tencent cloud computing
 46.3.105.191:8443#HK 🐳Nerocloud
