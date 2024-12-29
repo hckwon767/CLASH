@@ -8,6 +8,8 @@ blog.cloudflare.com:443#HK 🐳ORIGINAL
 cloudflare.tv:443#HK 🐳ORIGINAL
 cloudflare.net:443#HK 🐳ORIGINAL
 
+ava.game.naver.com#KR 한국테스트
+
 1.176.166.137:30012#KR 🐳LG HelloVision Corp.
 1.176.166.137:50000#KR 🐳LG HelloVision Corp.
 1.176.172.75:50000#KR 🐳LG HelloVision Corp.
