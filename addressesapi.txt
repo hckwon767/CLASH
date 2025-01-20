@@ -8,6 +8,9 @@ blog.cloudflare.com:443#HK 🐳ORIGINAL
 cloudflare.tv:443#HK 🐳ORIGINAL
 cloudflare.net:443#HK 🐳ORIGINAL
 
+210.61.97.241:81#대만1
+59.127.80.162:12224#대만2
+
 20.78.8.44:31593#JP_1
 20.243.85.49:10443#JP_2
 85.113.70.29:19125#JP_3
