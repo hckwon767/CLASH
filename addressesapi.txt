@@ -24,6 +24,63 @@ cloudflare.net:443#HK 🐳ORIGINAL
 162.159.0.0#14
 2606:4700::#ipv6 1
 
+35.219.50.99:443#ID,Google LLC
+35.219.15.90:443#ID,Google LLC
+
+[2606:4700:310c::ac42:2c94]:443#IPV6 서버1
+[2606:4700:310c::ac42:2f6c]:443#IPV6 서버2
+[2606:4700:3030::6815:5351]:443#IPV6 서버3
+[2606:4700:3030::ac43:d9d8]:443#IPV6 서버4
+[2606:4700:3037::6815:130]:443#IPV6 서버5
+[2606:4700:3036::ac43:8088]:443#IPV6 서버6
+[2606:4700:3036::ce:d6ea]:443#IPV6 서버9
+[2606:4700:3036:ef:92f:be51:8695:9fc5]:443#IPV6 서버10
+[2606:4700:3036:6ed4:260:e367:c3d4:d3bb]:2096#IPV6 서버11
+[2606:4700:3036:6ed4:e1ed:36:8916:dace]:2096#IPV6 서버12
+[2606:4700:3036:ef:3f32:9601:b705:e94b]:443#IPV6 서버13
+[2606:4700:3036:0:a36a:4aa4:75d9:9f75]:8443#IPV6 서버14
+[2606:4700:3036:0:a36a:4af2:65e7:a0d6]:2096#IPV6 서버15
+[2606:4700:3036:ef:db9e:ee41:a8df:d3b2]:2053#IPV6 서버16
+[2606:4700:3036:0:a36a:4a94:8d40:c92c]:2087#IPV6 서버17
+[2606:4700:3036:6ed4:ffdf:f2ba:820b:ed5c]:2096#IPV6 서버18
+[2606:4700::6810:2bd]:443#HK 🐳IPV6 ORIGNAL1
+[2606:4700::6810:3bd]:443#HK 🐳IPV6 ORIGNAL2
+[2606:4700::6810:4bd]:443#HK 🐳IPV6 ORIGNAL3
+[2606:4700::6810:5bd]:443#HK 🐳IPV6 ORIGNAL4
+[2606:4700::6810:6bd]:443#HK 🐳IPV6 ORIGNAL5
+
+123.202.145.26:443 #Hong Kong Broadband Network (HK)
+43.135.2.195:55256 #🐳Tencent cloud computing (HK)
+46.3.105.191:8443 #Nerocloud (HK)
+47.244.161.227:10443 #Alibaba (HK)
+103.149.91.215:5888 #High Family Technology Co. (HK)
+8.218.107.42:6669 #Alibaba (HK)
+154.204.60.218:29876 #Multacom Corporation (HK)
+8.210.92.27:443 #Alibaba (HK)
+45.152.163.148:443 #YUWAN NETWORKS LIMITED (HK)
+47.238.135.64:587 #Alibaba (HK)
+154.83.17.232:443 #Yisu Cloud (SC)
+43.132.249.68:48908 #🐳Tencent cloud computing (HK)
+103.247.29.42:10081 #VMISS (HK)
+8.218.75.2:19155 #Alibaba (HK)
+218.102.178.142:23894 #Netvigator (HK)
+206.119.178.149:443 #SonderCloud (US)
+192.252.182.52:7602 #CTG Server (US)
+8.217.73.46:36003 #Vultr (IN)
+218.102.178.142:23119 #Netvigator (HK)
+141.11.91.177:40110 #Akile (HK)
+165.154.41.40:443 #Ucloud Information Technology Hk (HK)
+47.242.153.89:443 #Alibaba (HK)
+43.224.48.58:36802 #Hong Kong Broadband Network (HK)
+112.119.95.226:9000 #Netvigator Home Broadband (HK)
+159.138.4.222:443 #Huawei Cloud (HK)
+8.217.234.3:10003 #Alibaba (HK)
+113.252.92.221:13538 #HGC Broadband (HK)
+113.252.92.221:19228 #HGC Broadband (HK)
+113.252.92.221:34507 #HGC Broadband (HK)
+223.122.193.80:32378 #China Mobile (HK)
+43.155.83.86:38002 #🐳Tencent cloud computing (HK)
+
 103.133.223.50:2096#ID Cloud Teknologi Nusantara
 103.168.146.169:20132#ID Herza.ID
 43.133.145.156:53136#ID Tencent cloud computing
