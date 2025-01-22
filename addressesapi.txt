@@ -1,4 +1,232 @@
-http://hk.mirrors.thegigabit.com:443#HK 🐳tessssss
+156.251.180.181:21698#HK Multacom Corporation
+154.83.88.187:44196#HK Ducky Cloud Technologies
+156.230.12.71:443#HK 263 Shanghai Communications
+47.89.39.186:39251#HK Alibaba
+202.144.195.204:443#HK IPTELECOM Global
+154.12.176.169:11920#HK DMIT
+202.144.192.76:443#HK IPTELECOM Global
+8.210.152.145:26651#HK Alibaba
+47.239.231.62:7443#HK Alibaba
+154.12.176.201:587#HK DMIT
+8.218.53.44:39439#HK Alibaba
+47.242.169.69:52721#HK Alibaba
+8.218.107.42:6669#HK Alibaba
+34.92.122.190:55652#HK Google Cloud
+118.142.2.106:22498#HK HGC Broadband
+43.155.83.86:38002#HK Tencent cloud computing
+40.83.122.22:2053#HK Microsoft Azure
+218.188.151.102:26002#HK HGC Broadband
+192.131.142.161:46639#HK Leaseweb Hong Kong
+62.72.163.52:8443#HK Wap.ac
+156.254.114.186:443#HK Datawing
+43.132.244.52:21415#HK Tencent cloud computing
+43.154.40.135:10334#HK Tencent cloud computing
+118.142.2.106:21826#HK HGC Broadband
+118.142.2.106:31542#HK HGC Broadband
+118.142.2.106:13745#HK HGC Broadband
+38.180.94.174:35521#HK M247 Europe
+43.155.84.76:55527#HK Tencent cloud computing
+101.32.10.244:10457#HK Tencent cloud computing
+43.129.160.101:54739#HK Tencent cloud computing
+103.133.178.229:26010#HK Vpsor-global
+103.127.248.51:443#HK Adc Group Co.
+103.172.41.223:443#HK Akari Networks
+103.225.198.7:443#HK Gigabit Hosting Sdn Bhd
+103.195.49.223:1009#HK Dimension Network & Communication
+103.195.49.224:1009#HK Dimension Network & Communication
+103.195.49.225:1009#HK Dimension Network & Communication
+112.119.49.206:23555#HK Netvigator Home Broadband
+103.247.28.240:37211#HK VMISS
+103.225.199.138:587#HK Cnservers LLC
+103.252.117.140:2053#HK Kamatera Inc
+113.253.142.18:20703#HK HGC Broadband
+113.254.239.245:11885#HK HGC Broadband
+113.254.171.90:12521#HK HGC Broadband
+116.204.210.10:443#HK Topway Global
+113.254.28.142:22200#HK HGC Broadband
+118.141.64.192:36619#HK HGC Broadband
+118.142.2.106:27394#HK HGC Broadband
+122.10.12.135:63168#HK HKDF
+118.142.2.106:36659#HK HGC Broadband
+122.10.50.98:63168#HK HKDF
+119.28.21.144:4044#HK Tencent cloud computing
+117.18.13.170:25372#HK CTG Server
+124.156.129.206:6666#HK Tencent cloud computing
+119.8.238.73:81#HK Huawei Cloud
+124.244.92.109:25203#HK Hong Kong Broadband Network
+141.11.175.133:8080#HK Akile
+141.11.218.253:8080#HK Akile
+141.11.78.77:8080#HK Akile
+141.11.77.248:8080#HK Akile
+141.11.219.114:8080#HK Akile
+141.11.216.39:8080#HK Akile
+122.10.17.144:63168#HK HKDF
+141.98.234.63:24443#HK Global Connectivity Solutions Llp
+141.11.148.60:8080#HK Akile
+141.11.79.31:8080#HK Akile
+141.11.218.249:8080#HK Akile
+128.1.132.82:443#HK Ucloud Information Technology Hk
+147.92.41.168:1009#HK Dimension Network & Communication
+141.98.234.14:2053#HK Global Connectivity Solutions Llp
+141.11.175.174:20368#HK Akile
+149.104.29.121:443#HK Lucidacloud
+141.11.91.67:8080#HK Akile
+152.32.252.175:8969#HK Ucloud Information Technology Hk
+154.16.10.34:8080#HK Akile
+149.104.24.14:8443#HK Lucidacloud
+147.92.41.167:1009#HK Dimension Network & Communication
+147.92.41.169:1009#HK Dimension Network & Communication
+141.11.217.127:443#HK Akile
+156.234.17.144:443#HK Yancy
+156.254.114.104:443#HK Datawing
+156.254.114.122:1233#HK Cloudflare Warp
+182.160.2.5:53310#HK Huawei Cloud
+154.9.246.20:587#HK Cloudie
+16.163.147.103:2053#HK Amazon.com
+18.162.134.60:8443#HK Amazon.com
+182.160.2.5:56038#HK Huawei Cloud
+156.254.115.247:8443#HK Datawing
+156.255.90.175:8443#HK Datawing
+16.163.147.103:8443#HK Amazon.com
+156.254.114.120:30011#HK Datawing
+182.160.2.5:39433#HK Huawei Cloud
+156.254.114.88:1233#HK Cloudflare Warp
+156.255.90.175:2053#HK Datawing
+162.245.220.242:8080#HK Landups
+182.160.2.5:33693#HK Huawei Cloud
+191.96.242.70:34518#HK Hytron Network Services Limited
+190.92.245.30:25166#HK Huawei Cloud
+192.131.142.98:44024#HK Leaseweb Hong Kong
+185.74.222.61:2053#HK Stark Industries Solutions
+191.101.132.54:8080#HK Akile
+193.200.134.20:12005#HK VH Global
+194.156.99.186:443#HK Stark Industries Solutions
+195.54.171.57:8443#HK M247 Europe
+206.237.0.40:443#HK Overland Storage
+2.56.91.89:2053#HK eServer
+2.56.91.89:8443#HK eServer
+206.237.1.31:1233#HK Overland Storage
+205.198.64.235:443#HK Eons Data Communications
+202.181.27.218:14526#HK Cloudie
+203.9.150.104:443#HK Leaseweb Hong Kong
+206.237.6.243:587#HK Overland Storage
+20.247.91.84:48291#HK Microsoft Azure
+206.237.10.52:29266#HK Overland Storage
+207.226.152.42:443#HK PCCW Global
+218.188.151.102:12062#HK HGC Broadband
+218.188.151.102:10315#HK HGC Broadband
+206.237.27.211:50833#HK Cloudie
+34.92.105.182:57820#HK Google Cloud
+221.127.42.78:11770#HK HGC Broadband
+23.226.8.80:443#HK UDomain Web Hosting Company
+23.226.8.80:444#HK UDomain Web Hosting Company
+38.180.94.174:20627#HK M247 Europe
+221.125.10.8:57537#HK HGC Broadband
+218.188.151.102:31564#HK HGC Broadband
+223.19.142.92:443#HK HGC Broadband
+23.26.217.56:20443#HK Nearoute
+36.50.90.241:35951#HK Cloudflare Warp
+38.207.172.42:443#HK VMISS
+34.92.35.61:37455#HK Google Cloud
+27.0.232.51:2053#HK Oneprovider.com
+42.98.167.229:12345#HK Netvigator Home Broadband
+43.129.69.6:53101#HK Tencent cloud computing
+38.6.219.16:8080#HK AROSS
+43.132.110.81:33683#HK Tencent cloud computing
+43.129.69.6:53116#HK Tencent cloud computing
+36.50.90.241:47790#HK Cloudflare Warp
+43.129.171.137:443#HK Tencent cloud computing
+43.135.30.215:47161#HK Tencent cloud computing
+43.132.180.125:42010#HK Tencent cloud computing
+43.154.182.110:28229#HK Tencent cloud computing
+43.132.249.68:48908#HK Tencent cloud computing
+43.135.44.101:30002#HK Tencent cloud computing
+43.154.182.110:38474#HK Tencent cloud computing
+43.154.196.20:65121#HK Tencent cloud computing
+43.154.124.136:26666#HK Tencent cloud computing
+43.154.34.74:1935#HK Tencent cloud computing
+43.154.200.160:20047#HK Tencent cloud computing
+43.154.37.247:4397#HK Tencent cloud computing
+45.149.186.112:8080#HK Akile
+43.155.22.176:443#HK Tencent cloud computing
+43.252.41.204:2443#HK CommuniLink Internet
+45.207.222.179:2096#HK Catixs
+45.207.218.146:1233#HK Catixs
+43.155.89.93:55527#HK Tencent cloud computing
+45.136.197.252:443#HK M247 Europe
+43.249.172.15:443#HK Yancy
+46.232.122.240:8000#HK Akari Networks
+47.238.102.88:587#HK Alibaba
+47.238.94.168:41259#HK Alibaba
+47.238.94.168:19515#HK Alibaba
+46.149.203.203:7656#HK Dimension Network & Communication
+47.238.223.197:587#HK Alibaba
+47.239.255.136:20443#HK Alibaba
+47.238.204.242:10007#HK Alibaba
+47.242.126.60:21478#HK Alibaba
+46.149.203.201:7656#HK Dimension Network & Communication
+46.149.203.202:7656#HK Dimension Network & Communication
+47.239.27.174:5534#HK Alibaba
+47.238.184.148:587#HK Alibaba
+47.238.226.62:58009#HK Alibaba
+47.240.20.7:3445#HK Alibaba
+47.243.128.70:11997#HK Alibaba
+47.243.57.167:28094#HK Alibaba
+47.243.185.198:23233#HK Alibaba
+47.242.171.138:37021#HK Alibaba
+62.72.163.191:8443#HK Hytron Network Services
+62.72.163.177:886#HK Wap.ac
+58.176.95.46:443#HK Hong Kong Broadband Network
+59.148.95.13:20746#HK Hong Kong Broadband Network
+47.242.172.10:45936#HK Alibaba
+47.76.94.229:18890#HK Alibaba
+47.76.218.163:443#HK Alibaba
+62.72.163.178:886#HK Wap.ac
+5.188.33.21:57602#HK G-Core Labs SA
+62.192.175.43:12009#HK LSHIY-USER-CONTENT
+74.119.193.94:2053#HK PQ HOSTING S.R.L
+66.203.144.241:7656#HK Dimension Network & Communication
+66.203.144.240:7656#HK Dimension Network & Communication
+8.210.200.31:11991#HK Alibaba
+66.203.150.212:7656#HK Dimension Network & Communication
+8.217.206.52:25432#HK Alibaba
+8.210.142.146:12346#HK Alibaba
+66.203.150.210:7656#HK Dimension Network & Communication
+8.210.7.36:43891#HK Alibaba
+8.217.229.36:43803#HK Alibaba
+8.217.206.52:31458#HK Alibaba
+8.217.26.121:38767#HK Alibaba
+8.217.45.101:47243#HK Alibaba
+8.217.45.219:18251#HK Alibaba
+66.203.150.211:7656#HK Dimension Network & Communication
+66.203.144.242:7656#HK Dimension Network & Communication
+8.218.194.79:59882#HK Alibaba
+8.217.45.219:42291#HK Alibaba
+43.159.196.17:443#HK Tencent cloud computing
+85.208.104.34:8080#HK Akile
+82.152.163.172:1233#HK Hytron Network Services
+85.208.104.136:8080#HK Akile
+8.218.245.116:42805#HK Alibaba
+83.147.3.165:8080#HK Akile
+8.218.103.198:39237#HK Alibaba
+8.218.245.116:49701#HK Alibaba
+83.147.2.104:8080#HK Akile
+8.218.153.23:51728#HK Alibaba
+82.152.163.227:443#HK Hytron Network Services
+91.217.139.227:8443#HK Cnservers LLC
+91.217.139.121:8443#HK Cnservers LLC
+8.218.245.116:41528#HK Alibaba
+91.229.132.49:8080#HK Akile
+8.218.142.77:587#HK Alibaba
+8.210.67.144:29633#HK Alibaba
+94.74.102.232:19228#HK Huawei Cloud
+193.233.193.12:2053#HK Adcdata.com
+193.233.193.12:8443#HK Adcdata.com
+27.0.232.51:8443#HK Oneprovider.com
+83.147.14.92:9527#HK Alice Networks
+47.57.13.107:443#HK Alibaba
+138.2.12.103:14458#HK Cloudflare Warp
+
 developers.cloudflare.com:443#HK 🐳ORIGINAL best speed
 community.cloudflare.com:443#HK 🐳ORIGINAL
 support.cloudflare.com:443#HK 🐳ORIGINAL
@@ -33,38 +261,6 @@ cloudflare.net:443#HK 🐳ORIGINAL
 [2606:4700::6810:4bd]:443#HK 🐳IPV6 ORIGNAL3
 [2606:4700::6810:5bd]:443#HK 🐳IPV6 ORIGNAL4
 [2606:4700::6810:6bd]:443#HK 🐳IPV6 ORIGNAL5
-
-123.202.145.26:443 #Hong Kong Broadband Network (HK)
-43.135.2.195:55256 #🐳Tencent cloud computing (HK)
-46.3.105.191:8443 #Nerocloud (HK)
-47.244.161.227:10443 #Alibaba (HK)
-103.149.91.215:5888 #High Family Technology Co. (HK)
-8.218.107.42:6669 #Alibaba (HK)
-154.204.60.218:29876 #Multacom Corporation (HK)
-8.210.92.27:443 #Alibaba (HK)
-45.152.163.148:443 #YUWAN NETWORKS LIMITED (HK)
-47.238.135.64:587 #Alibaba (HK)
-154.83.17.232:443 #Yisu Cloud (SC)
-43.132.249.68:48908 #🐳Tencent cloud computing (HK)
-103.247.29.42:10081 #VMISS (HK)
-8.218.75.2:19155 #Alibaba (HK)
-218.102.178.142:23894 #Netvigator (HK)
-206.119.178.149:443 #SonderCloud (US)
-192.252.182.52:7602 #CTG Server (US)
-8.217.73.46:36003 #Vultr (IN)
-218.102.178.142:23119 #Netvigator (HK)
-141.11.91.177:40110 #Akile (HK)
-165.154.41.40:443 #Ucloud Information Technology Hk (HK)
-47.242.153.89:443 #Alibaba (HK)
-43.224.48.58:36802 #Hong Kong Broadband Network (HK)
-112.119.95.226:9000 #Netvigator Home Broadband (HK)
-159.138.4.222:443 #Huawei Cloud (HK)
-8.217.234.3:10003 #Alibaba (HK)
-113.252.92.221:13538 #HGC Broadband (HK)
-113.252.92.221:19228 #HGC Broadband (HK)
-113.252.92.221:34507 #HGC Broadband (HK)
-223.122.193.80:32378 #China Mobile (HK)
-43.155.83.86:38002 #🐳Tencent cloud computing (HK)
 
 103.133.223.50:2096#ID Cloud Teknologi Nusantara
 103.168.146.169:20132#ID Herza.ID
