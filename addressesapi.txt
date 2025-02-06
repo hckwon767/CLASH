@@ -1,9 +1,9 @@
-developers.cloudflare.com:443#HK 🐳ORIGINAL best speed
-community.cloudflare.com:443#HK 🐳ORIGINAL
-support.cloudflare.com:443#HK 🐳ORIGINAL
-dash.cloudflare.com:443#HK 🐳ORIGINAL
-domains.cloudflare.com:443#HK 🐳ORIGINAL
-radar.cloudflare.com:443#HK 🐳ORIGINAL
-blog.cloudflare.com:443#HK 🐳ORIGINAL
-cloudflare.tv:443#HK 🐳ORIGINAL
-cloudflare.net:443#HK 🐳ORIGINAL
+developers.cloudflare.com:443#HK 🐳developers
+community.cloudflare.com:443#HK 🐳community
+support.cloudflare.com:443#HK 🐳support
+dash.cloudflare.com:443#HK 🐳dash
+domains.cloudflare.com:443#HK 🐳domains
+radar.cloudflare.com:443#HK 🐳radar
+blog.cloudflare.com:443#HK 🐳blog
+cloudflare.tv:443#HK 🐳tv
+cloudflare.net:443#HK 🐳net
