@@ -7,3 +7,6 @@ radar.cloudflare.com:443#HK 🐳radar
 blog.cloudflare.com:443#HK 🐳blog
 cloudflare.tv:443#HK 🐳tv
 cloudflare.net:443#HK 🐳net
+gates.cloudflare.com:443#HK 🐳gates
+challenges.cloudflare.com:443#HK 🐳challenges
+sparrow.cloudflare.com:443#HK 🐳sparrow
