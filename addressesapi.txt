@@ -10,3 +10,5 @@ cloudflare.net:443#HK 🐳net
 gates.cloudflare.com:443#HK 🐳gates
 challenges.cloudflare.com:443#HK 🐳challenges
 sparrow.cloudflare.com:443#HK 🐳sparrow
+
+https://raw.githubusercontent.com/x-dr/iptest/refs/heads/main/proxyip.txt
