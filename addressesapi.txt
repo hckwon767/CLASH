@@ -11,23 +11,24 @@ gates.cloudflare.com:443#HK 🐳gates
 challenges.cloudflare.com:443#HK 🐳challenges
 sparrow.cloudflare.com:443#HK 🐳sparrow
 
-91.107.131.10:14362#DE Hetzner Online
-128.140.11.25:25690#DE Hetzner Online
-147.45.49.164:24443#JP The Constant Company LLC
-43.163.207.12:52025#JP M247 Europe
-138.201.244.245:2052#DE Hetzner Online
-38.47.125.109:33909#JP Oracle Corporation
-211.0.236.200:13853#JP The Constant Company LLC
-94.230.165.18:5581#DE AEZA INTERNATIONAL LTD
-78.47.52.88:2096#DE OVH SAS
-46.226.166.144:29642#DE Hetzner Online GmbH
-109.61.16.245:6633#DE OVH SAS
-91.107.129.42:11555#DE Hetzner Online
-168.138.192.16:54584#JP M247 Europe SRL
-5.252.22.124:2057#DE Vultr
-93.183.94.78:6379#DE Digital City FZE
-152.69.192.40:57005#JP VMISS Inc
-45.11.1.118:44004#JP NTT
-95.217.30.16:1819#DE Global Internet Solutions
-45.157.233.83:3107#DE Hetzner Online GmbH
-91.107.166.111:8888#DE Hetzner Online
+103.106.230.186:81#TW BrainStorm Network
+202.39.212.181:18990#TW Chunghwa Telecom
+61.222.146.15:28227#TW Chunghwa Telecom
+59.127.80.162:12224#TW Chunghwa Telecom
+188.253.6.53:25884#TW Akari Networks
+202.39.212.181:25062#TW Chunghwa Telecom
+37.128.252.113:31141#TW Akari Networks
+60.249.114.181:32003#TW Chunghwa Telecom
+60.249.114.181:21574#TW Chunghwa Telecom
+118.163.37.32:81#TW Chunghwa Telecom
+141.11.86.94:18333#TW Akile
+61.63.235.53:25957#TW SaveCom Internation
+220.130.80.171:20655#TW Data Communication Business Group
+60.249.114.181:26398#TW Chunghwa Telecom
+220.135.202.250:81#TW Chunghwa Telecom
+116.241.116.184:20242#TW TBC
+106.105.199.173:38309#TW Hsin Yeong An Cable TV Co
+202.39.212.181:18402#TW Chunghwa Telecom
+175.97.191.217:30100#TW Tai-Fu Cloud Co Ltd
+85.237.206.205:12678#TW Akari Networks
+210.61.97.241:81#TW Data Communication Business Group
