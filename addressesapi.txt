@@ -10,3 +10,4 @@ cloudflare.net:443#HK 🐳net
 gates.cloudflare.com:443#HK 🐳gates
 challenges.cloudflare.com:443#HK 🐳challenges
 sparrow.cloudflare.com:443#HK 🐳sparrow
+162.159.207.78:443#HK 스마트
