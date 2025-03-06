@@ -10,7 +10,6 @@ cloudflare.net:443#HK 🐳net
 gates.cloudflare.com:443#HK 🐳gates
 challenges.cloudflare.com:443#HK 🐳challenges
 sparrow.cloudflare.com:443#HK 🐳sparrow
-a.nel.cloudflare.com:443#HK 🐳a.nel
 
 infobyip.com:443#HK 🐳kr info
 
