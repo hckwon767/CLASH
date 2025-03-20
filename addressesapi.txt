@@ -14,3 +14,6 @@ workers.cloudflare.com:443#HK 🐳workers
 pages.cloudflare.com:443#HK 🐳pages
 
 infobyip.com:443#HK 🐳kr info
+
+shawnshandymanservice.com:443#HK 🐳테스트1
+zientotologin.com:443#HK 🐳테스트2
