@@ -10,19 +10,9 @@ cloudflare.net:443#HK 🐳net
 gates.cloudflare.com:443#HK 🐳gates
 challenges.cloudflare.com:443#HK 🐳challenges
 sparrow.cloudflare.com:443#HK 🐳sparrow
+workers.cloudflare.com:443#HK 🐳workers
+pages.cloudflare.com:443#HK 🐳pages
 
 infobyip.com:443#HK 🐳kr info
 
 162.159.207.78:443#HK 스마트
-193.122.117.94:2053#KR
-193.122.124.215:8443#KR
-
-193.122.114.82:443#KR
-193.123.235.59:443#KR
-193.122.112.113:443#KR
-193.122.97.248:443#KR
-193.122.118.143:443#KR
-193.123.253.52:443#KR
-193.122.104.244:443#KR
-193.122.125.205:443#KR
-193.123.238.90:443#KR
