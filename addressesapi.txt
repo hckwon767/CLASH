@@ -16,3 +16,8 @@ pages.cloudflare.com:443#HK 🐳pages
 infobyip.com:443#HK 🐳kr info
 
 162.159.207.78:443#HK 스마트
+
+103.242.28.0:443#JP DIGIROCK
+183.90.176.0:443#JP DIGIROCK
+202.172.24.0:443#JP DIGIROCK
+202.172.25.0:443#JP DIGIROCK
