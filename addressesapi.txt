@@ -14,3 +14,5 @@ workers.cloudflare.com:443#HK 🐳workers
 pages.cloudflare.com:443#HK 🐳pages
 
 infobyip.com:443#HK 🐳kr info
+
+35.202.158.120#US 테스트서버
