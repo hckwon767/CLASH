@@ -12,6 +12,9 @@ challenges.cloudflare.com:443#HK 🐳challenges
 sparrow.cloudflare.com:443#HK 🐳sparrow
 workers.cloudflare.com:443#HK 🐳workers
 pages.cloudflare.com:443#HK 🐳pages
-one.one.one.one:443#HK 🐳one
+speed.cloudflare.com:443#HK 🐳speed
+cdnjs.cloudflare.com:443#HK 🐳cdnjs
+research.cloudflare.com:443#HK 🐳research
+rpki.cloudflare.com:443#HK 🐳rpki
 
 infobyip.com:443#HK 🐳kr info
