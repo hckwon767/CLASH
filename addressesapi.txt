@@ -16,5 +16,6 @@ speed.cloudflare.com:443#HK 🐳speed
 cdnjs.cloudflare.com:443#HK 🐳cdnjs
 research.cloudflare.com:443#HK 🐳research
 rpki.cloudflare.com:443#HK 🐳rpki
+cloudflarestatus.com:443#HK 🐳status
 
 infobyip.com:443#HK 🐳kr info
