@@ -18,4 +18,6 @@ research.cloudflare.com:443#HK 🐳research
 rpki.cloudflare.com:443#HK 🐳rpki
 cloudflarestatus.com:443#HK 🐳status
 
+ripe.net:443#HK 🐳ripe
+
 infobyip.com:443#HK 🐳kr info
