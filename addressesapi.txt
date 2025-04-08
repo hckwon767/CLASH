@@ -18,6 +18,7 @@ rpki.cloudflare.com:443#HK 🐳rpki
 
 cloudflare.9jy.cc:8443#HK 🐳test 테스트
 infobyip.com:443#HK 🐳kr info
+https://cf.090227.xyz#최적
 
 18.184.55.249#DE
 158.101.221.74#DE
