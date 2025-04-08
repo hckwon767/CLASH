@@ -16,6 +16,7 @@ cdnjs.cloudflare.com:443#HK 🐳cdnjs
 research.cloudflare.com:443#HK 🐳research
 rpki.cloudflare.com:443#HK 🐳rpki
 
+cloudflare.9jy.cc:8443#HK 🐳test 테스트
 infobyip.com:443#HK 🐳kr info
 
 18.184.55.249#DE
