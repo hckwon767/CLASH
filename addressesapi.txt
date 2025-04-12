@@ -21,20 +21,15 @@ infobyip.com:443#HK 🐳kr info
 
 172.67.198.54#HK 빠른
 
-csgo.com
-time.is
-icook.hk
-icook.tw
-ip.sb
-japan.com
-malaysia.com
-russia.com
-singapore.com
-www.visa.com.sg
-www.visa.co.jp
-www.gco.gov.qa
-www.gov.se
-www.gov.ua
-yx.887141.xyz
-cfip.1323123.xyz
-cf.0sm.com
+time.is#안정
+icook.hk#안정
+icook.tw#안정
+ip.sb#안정
+japan.com#안정
+malaysia.com#안정
+russia.com#안정
+singapore.com#안정
+www.gco.gov.qa#안정
+www.gov.se#안정
+www.gov.ua#안정
+yx.887141.xyz#안정
