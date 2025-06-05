@@ -25,6 +25,8 @@ infobyip.com:443#HK 🐳test info
 [2606:4700::6810:5bd]:443#HK 🐳IPV6 ORIGNAL4
 [2606:4700::6810:6bd]:443#HK 🐳IPV6 ORIGNAL5
 
+129.213.130.70#US 미국최고속도
+
 g2.com:443#US 미국서버g2🐳
 www.pcmag.com:443#US미국서버pcmag🐳
 unpkg.com#US AM🐳
