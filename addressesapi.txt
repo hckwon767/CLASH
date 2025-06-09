@@ -19,12 +19,6 @@ rpki.cloudflare.com:443#HK 🐳rpki
 cloudflare.9jy.cc:8443#HK 🐳test 테스트
 infobyip.com:443#HK 🐳test info
 
-[2606:4700::6810:2bd]:443#HK 🐳IPV6 ORIGNAL1
-[2606:4700::6810:3bd]:443#HK 🐳IPV6 ORIGNAL2
-[2606:4700::6810:4bd]:443#HK 🐳IPV6 ORIGNAL3
-[2606:4700::6810:5bd]:443#HK 🐳IPV6 ORIGNAL4
-[2606:4700::6810:6bd]:443#HK 🐳IPV6 ORIGNAL5
-
 g2.com:443#US 미국서버g2🐳
 www.pcmag.com:443#US미국서버pcmag🐳
 unpkg.com#US AM🐳
