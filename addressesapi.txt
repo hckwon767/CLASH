@@ -15,6 +15,8 @@ pages.cloudflare.com:443#HK 🐳pages
 cdnjs.cloudflare.com:443#HK 🐳cdnjs
 research.cloudflare.com:443#HK 🐳research
 rpki.cloudflare.com:443#HK 🐳rpki
+platform.dash.cloudflare.com:443#HK 🐳platform
+ot.www.cloudflare.com:443#HK 🐳ot
 
 cloudflare.9jy.cc:8443#HK 🐳test 테스트
 infobyip.com:443#HK 🐳test info
