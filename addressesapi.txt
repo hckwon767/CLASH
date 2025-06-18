@@ -17,6 +17,7 @@ research.cloudflare.com:443#HK 🐳research
 rpki.cloudflare.com:443#HK 🐳rpki
 platform.dash.cloudflare.com:443#HK 🐳platform
 ot.www.cloudflare.com:443#HK 🐳ot
+playground.ai.cloudflare.com:443#HK 🐳AI
 
 cloudflare.9jy.cc:8443#HK 🐳test 테스트
 infobyip.com:443#HK 🐳test info
