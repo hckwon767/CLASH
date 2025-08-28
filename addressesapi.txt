@@ -1,4 +1,4 @@
-global.1qbank.com:443#HK 🐳 은행
+openai.com:443#HK 🐳 은행
 developers.cloudflare.com:443#HK 🐳developers
 community.cloudflare.com:443#HK 🐳community
 support.cloudflare.com:443#HK 🐳support
