@@ -1,6 +1,5 @@
-openai.com#HK 🐳 TTT1
-try.tp-link.com#HK 🐳 TTT2
-ozon.ru#HK 🐳 TTT3
+openai.com#HK 🐳 openai
+try.tp-link.com#HK 🐳 tp-link
 developers.cloudflare.com:443#HK 🐳developers
 community.cloudflare.com:443#HK 🐳community
 support.cloudflare.com:443#HK 🐳support
