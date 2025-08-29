@@ -1,3 +1,5 @@
+bitly.comtHK 🐳 bitly
+cpanel.netHK 🐳 cpanel
 openai.com#HK 🐳 openai
 try.tp-link.com#HK 🐳 tp-link
 developers.cloudflare.com:443#HK 🐳developers
