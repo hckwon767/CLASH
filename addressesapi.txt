@@ -1,9 +1,8 @@
-one.one.one.one#HK 🐳 temu
-nist.gov
-careers.samsonite.com
-client.home-design.ikea.com
-goodreturns.in
-filmibeat.com
+nist.gov#HK 🐳 nist
+careers.samsonite.com#HK 🐳 samsonite
+client.home-design.ikea.com#HK 🐳 ikea
+goodreturns.in#HK 🐳 goodreturns
+filmibeat.com#HK 🐳 filmibeat
 openai.com#HK 🐳 openai
 try.tp-link.com#HK 🐳 tp-link
 developers.cloudflare.com:443#HK 🐳developers
