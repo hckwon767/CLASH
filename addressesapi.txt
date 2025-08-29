@@ -1,5 +1,4 @@
-bitly.com#HK 🐳 bitly
-cpanel.net#HK 🐳 cpanel
+temu.com#HK 🐳 temu
 openai.com#HK 🐳 openai
 try.tp-link.com#HK 🐳 tp-link
 developers.cloudflare.com:443#HK 🐳developers
