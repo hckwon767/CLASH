@@ -1,47 +1,43 @@
-nist.gov#HK 🐳 nist
-careers.samsonite.com#HK 🐳 samsonite
-client.home-design.ikea.com#HK 🐳 ikea
-goodreturns.in#HK 🐳 goodreturns
-filmibeat.com#HK 🐳 filmibeat
-openai.com#HK 🐳 openai
-try.tp-link.com#HK 🐳 tp-link
-developers.cloudflare.com:443#HK 🐳developers
-community.cloudflare.com:443#HK 🐳community
-support.cloudflare.com:443#HK 🐳support
-dash.cloudflare.com:443#HK 🐳dash
-domains.cloudflare.com:443#HK 🐳domains
-radar.cloudflare.com:443#HK 🐳radar
-blog.cloudflare.com:443#HK 🐳blog
-cloudflare.tv:443#HK 🐳tv
-cloudflare.net:443#HK 🐳net
-gates.cloudflare.com:443#HK 🐳gates
-challenges.cloudflare.com:443#HK 🐳challenges
-sparrow.cloudflare.com:443#HK 🐳sparrow
-workers.cloudflare.com:443#HK 🐳workers
-pages.cloudflare.com:443#HK 🐳pages
-cdnjs.cloudflare.com:443#HK 🐳cdnjs
-research.cloudflare.com:443#HK 🐳research
-rpki.cloudflare.com:443#HK 🐳rpki
-platform.dash.cloudflare.com:443#HK 🐳platform
-ot.www.cloudflare.com:443#HK 🐳ot
-playground.ai.cloudflare.com:443#HK 🐳AI
+nist.gov#HK 📶5G nist
+careers.samsonite.com#HK 📶5G samsonite
+client.home-design.ikea.com#HK 📶5G ikea
+goodreturns.in#HK 📶5G goodreturns
+filmibeat.com#HK 📶5G filmibeat
+openai.com#HK 📶5G openai
+try.tp-link.com#HK 📶5G tp-link
+developers.cloudflare.com:443#HK 📶5Gdevelopers
+community.cloudflare.com:443#HK 📶5Gcommunity
+support.cloudflare.com:443#HK 📶5Gsupport
+dash.cloudflare.com:443#HK 📶5Gdash
+domains.cloudflare.com:443#HK 📶5Gdomains
+radar.cloudflare.com:443#HK 📶5Gradar
+blog.cloudflare.com:443#HK 📶5Gblog
+cloudflare.tv:443#HK 📶5Gtv
+cloudflare.net:443#HK 📶5Gnet
+gates.cloudflare.com:443#HK 📶5Ggates
+challenges.cloudflare.com:443#HK 📶5Gchallenges
+sparrow.cloudflare.com:443#HK 📶5Gsparrow
+workers.cloudflare.com:443#HK 📶5Gworkers
+pages.cloudflare.com:443#HK 📶5Gpages
+cdnjs.cloudflare.com:443#HK 📶5Gcdnjs
+research.cloudflare.com:443#HK 📶5Gresearch
+rpki.cloudflare.com:443#HK 📶5Grpki
+platform.dash.cloudflare.com:443#HK 📶5Gplatform
+ot.www.cloudflare.com:443#HK 📶5Got
+playground.ai.cloudflare.com:443#HK 📶5GAI
 
-cloudflare.9jy.cc:8443#HK 🐳test 테스트
-infobyip.com:443#HK 🐳test info
+cloudflare.9jy.cc:8443#HK 📶5Gtest 테스트
+infobyip.com:443#HK 📶5Gtest info
 
-g2.com:443#US 미국서버g2🐳
-www.pcmag.com:443#US미국서버pcmag🐳
-unpkg.com#US AM🐳
-quizlet.com#HK PM🐳
-time.is#안정
-icook.hk#안정
-icook.tw#안정
-ip.sb#안정
-japan.com#안정
-malaysia.com#안정
-russia.com#안정
-singapore.com#안정
-www.gco.gov.qa#안정
-www.gov.se#안정
-www.gov.ua#안정
-yx.887141.xyz#안정
+g2.com:443#US 미국서버g2📶5G
+www.pcmag.com:443#US미국서버pcmag📶5G
+unpkg.com#US AM📶5G
+quizlet.com#HK PM📶5G
+time.is#TIME📶5G
+icook.hk#ICOOK📶5G
+icook.tw#ICOOK📶5G
+ip.sb#IP📶5G
+japan.com#JAPAN📶5G
+malaysia.com#MALAYSIA📶5G
+russia.com#RUSSIA📶5G
+singapore.com#SG📶5G
