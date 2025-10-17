@@ -1,142 +1,43 @@
-141.144.205.164#NL
-141.144.194.227#NL
-141.144.207.123#NL
+nist.gov#HK 📶5G nist
+careers.samsonite.com#HK 📶5G samsonite
+client.home-design.ikea.com#HK 📶5G ikea
+goodreturns.in#HK 📶5G goodreturns
+filmibeat.com#HK 📶5G filmibeat
+openai.com#HK 📶5G openai
+try.tp-link.com#HK 📶5G tp-link
+developers.cloudflare.com:443#HK 📶5Gd evelopers
+community.cloudflare.com:443#HK 📶5G community
+support.cloudflare.com:443#HK 📶5G support
+dash.cloudflare.com:443#HK 📶5G dash
+domains.cloudflare.com:443#HK 📶5Gd omains
+radar.cloudflare.com:443#HK 📶5G radar
+blog.cloudflare.com:443#HK 📶5G blog
+cloudflare.tv:443#HK 📶5G tv
+cloudflare.net:443#HK 📶5G net
+gates.cloudflare.com:443#HK 📶5G gates
+challenges.cloudflare.com:443#HK 📶5G challenges
+sparrow.cloudflare.com:443#HK 📶5G sparrow
+workers.cloudflare.com:443#HK 📶5G workers
+pages.cloudflare.com:443#HK 📶5G pages
+cdnjs.cloudflare.com:443#HK 📶5G cdnjs
+research.cloudflare.com:443#HK 📶5G research
+rpki.cloudflare.com:443#HK 📶5G rpki
+platform.dash.cloudflare.com:443#HK 📶5G platform
+ot.www.cloudflare.com:443#HK 📶5G ot
+playground.ai.cloudflare.com:443#HK 📶5G AI
 
-cdnjs.cloudflare.com#web1
-api.cloudflare.com#web2
-info.cloudflare.com#web3
-sparrow.cloudflare.com#web4
+cloudflare.9jy.cc:8443#HK 📶5G test 테스트
+infobyip.com:443#HK 📶5G test info
 
-119.28.189.227:32079#HK
-103.30.78.25:30277#HK
-43.156.37.138:5555#SG
-43.156.143.198:40809#SG
-43.159.55.220:34237#SG
-168.138.179.107:36322#SG
-43.134.187.193:8989#SG
-1150.230.107.234:47236#JP1
-138.2.12.10:45805#JP2
-150.66.24.104:34237#JP3
-64.110.83.231:23022#JP4
-138.3.215.231:44784#JP5
-168.138.213.1:50003#JP6
-45.251.240.229:34237#JP7
-61.220.65.189:26832#TW1
-203.69.248.40:27381#TW2
-203.69.248.40:27381#TW3
-211.75.243.91:16764#TW4
-166.0.199.138:8268#TW5
-146.56.37.60:20017#KR1
-211.224.115.109:10084#KR2
-183.98.120.11:12266#KR3
-222.108.18.150:19013#KR4
-146.56.99.22:20443#KR5
-175.125.207.253:12534#KR6
-
-202.81.230.230:12345#HKG t1
-20.2.144.117:12000#HKG t2
-122.116.105.15:10443#Taiwan t
-172.93.44.36:2443#Bricklayer
-191.96.240.225:8888#Hongkong t1
-156.240.244.30:10443#Hongkong t2
-156.240.245.25:10443#Hongkong t3
-156.240.244.39:10443#Hongkong t4
-156.240.243.33:10443#Hongkong t5
-156.240.245.51:10443#Hongkong t6
-156.240.245.31:10443#Hongkong t7
-
-www.visa.com#USA
-cis.visa.com#USA
-africa.visa.com#USA
-www.visa.com.sg#USA
-www.visaeurope.at#USA
-www.visa.com.mt#USA
-qa.visamiddleeast.com#USA
-usa.visa.com#USA
-myanmar.visa.com#USA
-www.visa.com.tw#USA
-www.visaeurope.ch#USA
-www.visa.com.br#USA
-www.visasoutheasteurope.com#USA
-
-64.69.24.19#SG 싱가폴 빠름
-103.159.89.26:443#TW 대만 빠름
-a.fsdn.com#HK 홍콩 빠름
-cf.0sm.com#HK 여기1
-115155.xyz#HK 여기2
-cfip.cfcdn.vip#HK 홍콩(고속)1
-cdn.2020111.xyz#HK 홍콩(고속)2
-
-118.131.41.202:16072#KR 한국1(중속)
-114.30.225.88:30030#KR 한국2(중속)
-121.152.127.130:16082#KR 한국3(중속)
-183.98.120.11:12266#KR 한국4(중속)
-115.88.75.154:50026#KR 한국5(중속)
-
-proxyip.hk.fxxk.dedyn.io#HK 홍콩 
-proxyip.sg.fxxk.dedyn.io#SG 싱가폴 
-proxyip.jp.fxxk.dedyn.io#JP 일본 
-proxyip.kr.fxxk.dedyn.io#HK 홍콩
-proxyip.aliyun.fxxk.dedyn.io#알리클라우드 
-proxyip.oracle.fxxk.dedyn.io#오라클 
-proxyip.digitalocean.fxxk.dedyn.io#디지털오션 
-
-104.16.0.0#HK 홍콩서버1
-172.67.0.0#HK 홍콩서버2
-104.18.0.0#프리1
-104.19.0.0#프리2
-104.20.0.0#프리3
-104.21.0.0#프리4
-104.24.0.0#프리5
-104.25.0.0#프리6
-104.26.0.0#프리7
-104.27.0.0#프리8
-172.66.0.0#프리9
-162.159.0.0#프리10
-198.41.192.0#프리11
-160.153.0.0#프리12
-45.142.120.219#프리13
-kr.freegpt.filegear-sg.me#프리14
-
-cfip.1323123.xyz#HK 빠른서버테스트
-
-speed.marisalnc.com#속도짱
-
-1.232.40.93:10320#KR(11MB/S)
-14.36.97.87:12423#KR(10MB/S)
-59.3.3.161:443#KR(34MB/S)
-59.25.228.177:12574#KR(10MB/S)
-61.77.217.116:13980#KR(10MB/S)
-106.240.1.52:20443#KR(7MB/S)
-112.168.91.60:12311#KR(10MB/S)
-119.195.219.150:18050#KR(7MB/S)
-119.207.214.233:18054#KR(10MB/S)
-121.170.244.214:21307#KR(10MB/S)
-175.200.197.248:10250#KR(7MB/S)
-175.203.118.178:30005#KR(10MB/S)
-211.227.204.62:12228#KR(10MB/S)
-211.228.234.170:12134#KR(8MB/S)
-222.108.94.228:50000#KR(36MB/S)
-121.145.59.207:10201#KR(43MB/S)
-
-162.159.142.248#HK CMFAST1
-104.18.167.227#HK CMFAST2
-172.67.9.31#HK CMFAST3
-104.19.222.93#HK CMFAST4
-104.18.165.38#HK CMFAST5
-
-104.19.39.13#HK
-104.19.38.100#HK
-104.22.34.185#HK
-104.19.42.35#HK
-104.19.55.139#HK
-104.19.54.40#HK
-104.19.46.146#HK
-104.19.49.182#HK
-104.19.52.71#HK
-
-aagag.com#US 미국1
-wise.com#US 미국2
-fontmeme.com#US 미국3
-jembat.homes#US 미국4
-translations.matetranslate.com#US 미국5
+g2.com:443#US 미국서버g2📶5G
+www.pcmag.com:443#US미국서버pcmag📶5G
+unpkg.com#US AM📶5G
+quizlet.com#HK PM📶5G
+time.is#TIME📶5G
+icook.hk#ICOOK📶5G
+icook.tw#ICOOK📶5G
+ip.sb#IP📶5G
+japan.com#JAPAN📶5G
+malaysia.com#MALAYSIA📶5G
+russia.com#RUSSIA📶5G
+singapore.com#SG📶5G
