@@ -1,13 +1,11 @@
 payload:
-    - '+.tving.com
-    - '+.wavve.com
-    - '+.kbs.co.kr
-    - '+.ebs.co.kr
-    - '+.cloudfront.net
-    - '+.akamaized.net
-    - '+.cdn82.site
-    - '+.imgtu.top
-    - '+.daumcdn.net
-    - '+.iptime.com
-    - '+.iptime.org
-    - '+.'+.hiwifi.com'
+  - DOMAIN-KEYWORD,tving
+  - DOMAIN-KEYWORD,wavve
+  - DOMAIN-KEYWORD,kbs
+  - DOMAIN-KEYWORD,ebs
+  - DOMAIN-KEYWORD,cloudfront
+  - DOMAIN-KEYWORD,akamaized
+  - DOMAIN-KEYWORD,cdn82
+  - DOMAIN-KEYWORD,imgtu
+  - DOMAIN-KEYWORD,daum
+  - DOMAIN-KEYWORD,iptime
