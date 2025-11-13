@@ -1,13 +1,13 @@
 payload:
-  - '+.tving.com
-  - '+.wavve.com
-  - '+.kbs.co.kr
-  - '+.ebs.co.kr
-  - '+.cloudfront.net
-  - '+.akamaized.net
-  - '+.cdn82.site
-  - '+.imgtu.top
-  - '+.daumcdn.net
-  - '+.iptime.com
-  - '+.iptime.org
-  - '+.'+.hiwifi.com'
+    - '+.tving.com
+    - '+.wavve.com
+    - '+.kbs.co.kr
+    - '+.ebs.co.kr
+    - '+.cloudfront.net
+    - '+.akamaized.net
+    - '+.cdn82.site
+    - '+.imgtu.top
+    - '+.daumcdn.net
+    - '+.iptime.com
+    - '+.iptime.org
+    - '+.'+.hiwifi.com'
