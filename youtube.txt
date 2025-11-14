@@ -1,3 +1,4 @@
-+.youtube.com
-+.googlevideo.com
-+.ytimg.com
+payload:
+    - +.youtube.com
+    - +.googlevideo.com
+    - +.ytimg.com
