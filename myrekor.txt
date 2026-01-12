@@ -1,2 +1,4 @@
 payload:
   - DOMAIN-KEYWORD,igamecj
+  - DOMAIN-KEYWORD,kakao
+  - DOMAIN-KEYWORD,goodfone
