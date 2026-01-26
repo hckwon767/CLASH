@@ -2,3 +2,6 @@ payload:
   - DOMAIN-KEYWORD,igamecj
   - DOMAIN-KEYWORD,kakao
   - DOMAIN-KEYWORD,goodfone
+  - DOMAIN-KEYWORD,roblox
+  - DOMAIN-KEYWORD,rbxcdn
+  - DOMAIN-KEYWORD,appsflyersdk
