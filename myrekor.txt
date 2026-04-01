@@ -5,3 +5,9 @@ payload:
   - DOMAIN-KEYWORD,roblox
   - DOMAIN-KEYWORD,rbxcdn
   - DOMAIN-KEYWORD,appsflyersdk
+  - DOMAIN-KEYWORD,toss
+  - DOMAIN-KEYWORD,tossinvest
+  - DOMAIN-KEYWORD,tossbank
+  - DOMAIN-KEYWORD,karrotmarket
+  - DOMAIN-KEYWORD,gcp-karroter
+  - DOMAIN-KEYWORD,karrotwebview
