@@ -11,4 +11,4 @@ payload:
   - DOMAIN-KEYWORD,iptime
   - DOMAIN-KEYWORD,jk-cdn
   - DOMAIN-KEYWORD,myjktv
-  - DOMAIN-KEYWORD,kdrama
+  - DOMAIN-WILDCARD,+.kdrama.pw
