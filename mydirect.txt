@@ -9,3 +9,6 @@ payload:
   - DOMAIN-KEYWORD,imgtu
   - DOMAIN-KEYWORD,daum
   - DOMAIN-KEYWORD,iptime
+  - DOMAIN-WILDCARD,+.jk-cdn.com
+  - DOMAIN-WILDCARD,+.myjktv.com
+  - DOMAIN-WILDCARD,+.kdrama.pw
