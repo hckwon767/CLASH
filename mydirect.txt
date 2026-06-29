@@ -12,3 +12,4 @@ payload:
   - DOMAIN-KEYWORD,myjktv
   - DOMAIN-KEYWORD,jk-cdn
   - DOMAIN-KEYWORD,kdrama
+  - DOMAIN-SUFFIX,dedyn.io,DIRECT
