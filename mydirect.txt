@@ -13,3 +13,4 @@ payload:
   - DOMAIN-KEYWORD,jk-cdn
   - DOMAIN-KEYWORD,kdrama
   - DOMAIN-SUFFIX,dedyn.io,DIRECT
+  - DOMAIN-SUFFIX,tplinkdns.com,DIRECT
