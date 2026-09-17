@@ -1,4 +1,5 @@
 payload:
+  # 기존 작성 목록
   - DOMAIN-KEYWORD,igamecj
   - DOMAIN-KEYWORD,kakao
   - DOMAIN-KEYWORD,goodfone
@@ -11,3 +12,27 @@ payload:
   - DOMAIN-KEYWORD,karrotmarket
   - DOMAIN-KEYWORD,gcp-karroter
   - DOMAIN-KEYWORD,karrotwebview
+
+  # 쇼핑 / 결제
+  - DOMAIN-KEYWORD,coupang
+  - DOMAIN-KEYWORD,coupangcdn
+  - DOMAIN-KEYWORD,naver
+  - DOMAIN-KEYWORD,naverpay
+  - DOMAIN-KEYWORD,payco
+  - DOMAIN-KEYWORD,11st
+  - DOMAIN-KEYWORD,gmarket
+
+  # 국내 OTT / 스트리밍
+  - DOMAIN-KEYWORD,tving
+  - DOMAIN-KEYWORD,wavve
+  - DOMAIN-KEYWORD,chzzk
+  - DOMAIN-KEYWORD,sooplive
+
+  # 본인인증 / 금융
+  - DOMAIN-KEYWORD,passapp
+  - DOMAIN-KEYWORD,kbanknow
+  - DOMAIN-KEYWORD,shinhan
+  - DOMAIN-KEYWORD,kbstar
+
+  # 공공기관 (최상위 도메인)
+  - DOMAIN-SUFFIX,go.kr
