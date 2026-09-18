@@ -36,4 +36,4 @@ payload:
   - DOMAIN-SUFFIX,go.kr
 
   # ASN 추가
-  - ASN,18160
+  - IP-ASN,18160
