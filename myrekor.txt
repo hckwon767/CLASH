@@ -36,3 +36,6 @@ payload:
 
   # 공공기관 (최상위 도메인)
   - DOMAIN-SUFFIX,go.kr
+
+  # ASN 추가
+  - ASN,18160
