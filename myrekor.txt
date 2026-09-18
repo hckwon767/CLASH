@@ -23,8 +23,6 @@ payload:
   - DOMAIN-KEYWORD,gmarket
 
   # 국내 OTT / 스트리밍
-  - DOMAIN-KEYWORD,tving
-  - DOMAIN-KEYWORD,wavve
   - DOMAIN-KEYWORD,chzzk
   - DOMAIN-KEYWORD,sooplive
 
